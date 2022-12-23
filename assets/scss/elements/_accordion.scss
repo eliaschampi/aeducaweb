@@ -1,0 +1,144 @@
+/* 04.01 Accordion CSS */
+.faq-section {
+    padding-bottom: 120px;
+
+    // Responsive
+    @media #{$tablet-device} {
+        padding-bottom: 280px;
+    }
+
+    @media #{$large-mobile} {
+        padding-bottom: 260px;
+    }
+}
+
+.my-accordion {
+    .accordion {
+        margin-bottom: 1em;
+
+        >input[type="checkbox"] {
+            position: absolute;
+            left    : -100vw;
+        }
+
+        .content {
+            overflow-y: hidden;
+            height    : 0;
+            transition: height 0.3s ease;
+        }
+
+        >input[type="checkbox"]:checked~.content {
+            height  : auto;
+            overflow: visible;
+        }
+
+        label {
+            display: block;
+        }
+
+
+        >input[type="checkbox"]:checked~.content {
+            padding   : 15px;
+            border    : 2px dotted rgba($primary-two, 0.4);
+            border-top: 0;
+        }
+
+        .handle {
+            margin     : 0;
+            font-size  : 1.125em;
+            line-height: 1.2em;
+        }
+
+        label {
+            color           : darken($primary-two, 1.2);
+            border-radius   : 10px;
+            cursor          : pointer;
+            font-weight     : normal;
+            padding         : 15px;
+            background-color: rgba($primary-two, 0.15);
+
+            &:hover,
+            &:focus {
+                background-color: rgba($primary-two, 0.2);
+            }
+        }
+
+        .handle label:before {
+            font-family   : "IcoFont";
+            content       : "\ea6d";
+            display       : inline-block;
+            margin-right  : 10px;
+            font-size     : .58em;
+            line-height   : 1.556em;
+            vertical-align: middle;
+        }
+
+        >input[type="checkbox"]:checked~.handle label:before {
+            content: "\ea6b";
+        }
+    }
+}
+
+.faq-image-area {
+    position    : relative;
+    z-index     : 9;
+    height      : 100%;
+    margin-right: 0 !important;
+
+    & .shape {
+        position: absolute;
+        z-index : 1;
+
+        &-1 {
+            top    : auto;
+            bottom : 145px !important;
+            right  : -128px !important;
+            z-index: -1;
+        }
+    }
+
+    // Responsive
+    @media #{$laptop-device} {
+        & .shape {
+
+            &-1 {
+                top   : auto;
+                bottom: 145px !important;
+                right : 0px !important;
+            }
+        }
+    }
+
+    @media #{$desktop-device} {
+        & .shape {
+
+            &-1 {
+                top   : auto;
+                bottom: 145px !important;
+                right : 0px !important;
+            }
+        }
+    }
+
+    @media #{$tablet-device} {
+        & .shape {
+
+            &-1 {
+                top   : auto;
+                bottom: 145px !important;
+                right : 0px !important;
+            }
+        }
+    }
+
+    @media #{$large-mobile} {
+        & .shape {
+
+            &-1 {
+                top   : auto;
+                bottom: 145px !important;
+                right : 0px !important;
+            }
+        }
+    }
+}

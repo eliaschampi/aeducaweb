@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'Museo Sans Rounded';
+    font-weight: 100;
+    font-style : normal;
+    font-display: swap;
+
+    src: local('Museo Sans Rounded 100'),
+        local('MuseoSansRounded-100'),
+        url('../fonts/museum/MuseoSansRounded-100.woff') format('woff')
+}
+
+@font-face {
+    font-family: 'Museo Sans Rounded';
+    font-weight: 300;
+    font-style : normal;
+    font-display: swap;
+
+    src: local('Museo Sans Rounded 300'),
+        local('MuseoSansRounded-300'),
+        url('../fonts/museum/MuseoSansRounded-300.woff') format('woff')
+}
+
+@font-face {
+    font-family: 'Museo Sans Rounded';
+    font-weight: 500;
+    font-style : normal;
+    font-display: swap;
+
+    src: local('Museo Sans Rounded 500'),
+        local('MuseoSansRounded-500'),
+        url('../fonts/museum/MuseoSansRounded-500.woff') format('woff')
+}
+
+@font-face {
+    font-family: 'Museo Sans Rounded';
+    font-weight: 700;
+    font-style : normal;
+
+    src: local('Museo Sans Rounded 700'),
+        local('MuseoSansRounded-700'),
+        url('../fonts/museum/MuseoSansRounded-700.woff') format('woff')
+}
+
+@font-face {
+    font-family: 'Museo Sans Rounded';
+    font-weight: 800;
+    font-style : normal;
+    font-display: swap;
+
+    src: local('Museo Sans Rounded 900'),
+        local('MuseoSansRounded-900'),
+
+        url('../fonts/museum//MuseoSansRounded-900.woff') format('woff')
+}
+
+@font-face {
+    font-family: 'Museo Sans Rounded';
+    font-weight: 900;
+    font-style : normal;
+    font-display: swap;
+
+    src: local('Museo Sans Rounded 1000'),
+        local('MuseoSansRounded-1000'),
+        url('../fonts/museum/MuseoSansRounded-1000.woff') format('woff'),
+
+}

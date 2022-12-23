@@ -1,0 +1,191 @@
+.timeline {
+    position: relative;
+
+    &::before {
+        content   : "";
+        background: rgba($primary-two, 0.3);
+        width     : 5px;
+        height    : 95%;
+        position  : absolute;
+        left      : 50%;
+        transform : translateX(-50%);
+    }
+
+    &-item {
+        width        : 100%;
+        margin-bottom: 70px;
+
+        &:nth-child(even) {
+            .timeline-content {
+                float  : right;
+                padding: 40px 30px 10px 30px;
+
+                .date {
+                    right: auto;
+                    left : 0;
+                }
+
+                &::after {
+                    content     : "";
+                    position    : absolute;
+                    border-style: solid;
+                    width       : 0;
+                    height      : 0;
+                    top         : 30px;
+                    left        : -15px;
+                    border-width: 10px 15px 10px 0;
+                    border-color: transparent $body-bg transparent transparent;
+                }
+            }
+
+            &::after {
+                content: '';
+                display: block;
+                clear  : both;
+            }
+        }
+    }
+
+    &-content {
+        position     : relative;
+        width        : 45%;
+        padding      : 10px 30px;
+        border-radius: 1rem;
+        background   : $body-bg;
+        box-shadow   : $shadow;
+
+        &::after {
+            content     : '';
+            position    : absolute;
+            border-style: solid;
+            width       : 0;
+            height      : 0;
+            top         : 30px;
+            right       : -15px;
+            border-width: 10px 0 10px 15px;
+            border-color: transparent transparent transparent $body-bg;
+        }
+
+        p,
+        a,
+        button {
+            margin-bottom: 1rem;
+        }
+    }
+
+    &-img {
+        width        : 30px;
+        height       : 30px;
+        background   : $primary-two;
+        border-radius: 50%;
+        position     : absolute;
+        left         : 50%;
+        margin-top   : 25px;
+        margin-left  : -15px;
+    }
+
+    &-card {
+        padding: 0 !important;
+
+        p {
+            padding: 0 20px;
+        }
+
+        a {
+            margin-left: 20px;
+        }
+    }
+
+    &-item {
+        .timeline-img-header {
+            background-size: 100%;
+        }
+    }
+
+    &-img-header {
+
+        height                 : 200px;
+        position               : relative;
+        margin-bottom          : 1rem;
+        border-top-left-radius : 1rem;
+        border-top-right-radius: 1rem;
+
+        h2 {
+            color   : white;
+            position: absolute;
+            bottom  : 5px;
+            left    : 20px;
+        }
+    }
+
+    blockquote {
+        margin-top   : 30px;
+        color        : $secondary-light;
+        border-radius: 5px;
+        border-left  : 5px solid $primary-three;
+        padding      : 0 20px;
+    }
+
+    .date {
+        background   : $primary-two;
+        border-radius: 1rem;
+        display      : inline-block;
+        color        : white;
+        padding      : 10px;
+        position     : absolute;
+        top          : 0;
+        right        : 0;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+
+    .timeline {
+
+        &::before {
+            left: 50px;
+        }
+
+        .timeline-img {
+            left: 50px;
+        }
+
+        .timeline-content {
+            max-width  : 100%;
+            width      : auto;
+            margin-left: 70px;
+        }
+
+        .timeline-item {
+
+            &:nth-child(even) {
+
+                .timeline-content {
+                    float: none;
+
+                }
+            }
+
+            &:nth-child(odd) {
+
+                .timeline-content {
+
+                    &::after {
+                        content     : '';
+                        position    : absolute;
+                        border-style: solid;
+                        width       : 0;
+                        height      : 0;
+                        top         : 30px;
+                        left        : -15px;
+                        border-width: 10px 15px 10px 0;
+                        border-color: transparent $body-bg transparent transparent;
+                    }
+                }
+
+            }
+        }
+    }
+
+}

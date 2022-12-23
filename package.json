@@ -1,0 +1,35 @@
+{
+    "name": "aeducaweb",
+    "version": "1.0.0",
+    "author": "elias",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "@nuxtjs/axios": "^5.13.6",
+        "@nuxtjs/robots": "^2.5.0",
+        "@nuxtjs/style-resources": "^1.2.1",
+        "aos": "^2.3.4",
+        "body-parser": "^1.19.1",
+        "express": "^4.17.2",
+        "mixitup": "^3.3.1",
+        "nodemailer": "^6.7.2",
+        "nuxt": "^2.15.8",
+        "parallax-js": "^3.1.0",
+        "swiper": "^5.4.5",
+        "typed.js": "^2.0.12",
+        "vue-awesome-swiper": "^4.1.1",
+        "vue-cool-lightbox": "^2.7.4",
+        "vue-it-bigger": "^0.2.2",
+        "vue-typed-js": "^0.1.2",
+        "vuejs-paginate": "^2.1.0"
+    },
+    "devDependencies": {
+        "sass": "^1.45.1",
+        "sass-loader": "^10.2.0"
+    }
+}

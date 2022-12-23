@@ -1,0 +1,30 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <polygon id="svg_2" fill="#CCD1D9" points="3,62 5,58 53,58 55,58 59,58 61,62  "/>
+  <path id="svg_3" fill="#e03e3e" d="m32,2l1,0l8.066,2.689c0.558,0.186 0.934,0.707 0.934,1.295l0,0c0,0.603 -0.396,1.135 -0.973,1.308l-9.027,2.708l0,-8z"/>
+  <rect id="svg_4" fill="#CCD1D9" y="52" x="6" width="52" height="6"/>
+  <rect id="svg_5" fill="#E6E9ED" y="36" x="10" width="44" height="16"/>
+  <rect id="svg_6" fill="#CCD1D9" y="32" x="14" width="36" height="4"/>
+  <rect id="svg_7" fill="#CCD1D9" y="28" x="22" width="20" height="4"/>
+  <rect id="svg_8" fill="#DFB28B" y="2" x="31" width="2" height="13"/>
+  <polygon id="svg_9" fill="#CCD1D9" points="26,28 29,14 35,14 38,28  "/>
+  <rect id="svg_10" fill="#CCD1D9" y="48" x="10" width="44" height="4"/>
+  <rect id="svg_11" fill="#427ac4" y="40" x="14" width="6" height="8"/>
+  <rect id="svg_12" fill="#427ac4" y="40" x="24" width="6" height="8"/>
+  <rect id="svg_13" fill="#427ac4" y="40" x="34" width="6" height="8"/>
+  <rect id="svg_14" fill="#427ac4" y="40" x="44" width="6" height="8"/>
+  <rect id="svg_15" fill="#00bf5f" y="61" x="1" width="62" height="2"/>
+  <rect id="svg_16" fill="#AAB2BD" y="56" x="6" width="52" height="2"/>
+  <rect id="svg_17" fill="#AAB2BD" y="50" x="10" width="44" height="2"/>
+  <rect id="svg_18" fill="#AAB2BD" y="34" x="14" width="36" height="2"/>
+  <rect id="svg_19" fill="#AAB2BD" y="30" x="22" width="20" height="2"/>
+  <polygon id="svg_20" fill="#AAB2BD" points="26.429,26 26,28 38,28 37.571,26  "/>
+  <rect id="svg_21" fill="#CF9E76" y="12" x="31" width="2" height="2"/>
+ </g>
+</svg>

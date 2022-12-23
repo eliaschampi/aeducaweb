@@ -1,0 +1,126 @@
+// Font Family
+$muli        : 'Museo Sans Rounded';
+$body-font   : $muli;
+$heading-font: $muli;
+$link-font   : 'Museo Sans Rounded',
+sans-serif;
+
+// Icon Font
+$font   : "IcoFont";
+
+$danger : #EB1B2C;
+
+// Colors ---------------
+$body-color      : #4e5155;
+$body-bg         : #F3F7FC;
+$heading-color   : #1640a3;
+$primary         : $danger;
+$primary-two     : #e98e3a;
+$primary-three   : #1b5dd6;
+$secondary       : #FFC107;
+$secondary-light : #293f88;
+$secondary-three : #B0C303;
+$success         : #00ad57;
+
+$warning         : #FFC107;
+$light           : #F8F9FA;
+$off-white       : #f6f2ed;
+$white-gray      : #f2f5fa;
+$white-light     : #d7dcdf;
+$white-opacity-50: rgba(255, 255, 255, 0.5);
+$white           : #fff;
+$black           : #000;
+$gray-100        : #748494;
+$gray-200        : #3f5054;
+
+$overlay-black: #131c2e;
+$light-orange : rgba(239, 111, 49, .1);
+$shadow       : 0 4px 20px 0 rgb($secondary-light, 0.2);
+
+$theme-colors: ("primary": $primary,
+  "secondary": $secondary,
+  "success": $success,
+  "info": $primary-three,
+  "warning": $warning,
+  "danger": $primary,
+  "light": $body-bg,
+  "dark": #0d1438,
+  "white-gray": $white-gray,
+  "white-opacity-50": $white-opacity-50,
+  "white": $white,
+  "overlay-black": $overlay-black,
+);
+
+
+// Border Color
+$border-color: #1656cc;
+
+
+// Default Transition
+$transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
+
+// Social Color
+$android      : #7AC157;
+$apple        : #B8B8B8;
+$behance      : #1869FF;
+$dribbble     : #EA4C8A;
+$dropbox      : #007EE5;
+$evernote     : #78D525;
+$facebook     : #4867AA;
+$github       : #313131;
+$google-drive : #1DA462;
+$google-earth : #4285F4;
+$google-glass : #EA4335;
+$google-maps  : #5083C3;
+$google-play  : #01B9FD;
+$google-plus  : #DD5144;
+$google       : #4285F4;
+$instagram    : #B23A94;
+$css3         : #0277BD;
+$html5        : #E44D26;
+$javascript   : #F9DC3D;
+$python       : #0C9DBF;
+$lastfm       : #E31B23;
+$linkedin     : #007BB6;
+$paypal       : #002F86;
+$pinterest    : #BD081B;
+$pocket       : #EF3E56;
+$polymer      : #F87292;
+$rss          : #F99C3A;
+$share        : #2C9CFF;
+$stackoverflow: #F38024;
+$steam        : #15497B;
+$twitter      : #1DA1F2;
+$vk           : #5181B8;
+$wikipedia    : #E9E9E9;
+$windows      : #0078D6;
+$s8tracks     : #122D4B;
+$amazon       : #F79B34;
+$blogger      : #F06A35;
+$delicious    : #0000FE;
+$disqus       : #2E9EFE;
+$flattr       : #7AB831;
+$flickr       : #FE0084;
+$odnoklassniki: #F58220;
+$outlook      : #0072C6;
+$playstation  : #07418E;
+$reddit       : #FF4500;
+$skype        : #00A9F0;
+$slideshare   : #0077B5;
+$soundcloud   : #FE4900;
+$tumblr       : #36465D;
+$twitch       : #6441A4;
+$vimeo        : #1AB7EA;
+$whatsapp     : #189D0E;
+$xbox         : #107C0F;
+$yahoo        : #4101AF;
+$youtube      : #FE0000;
+
+// Responsive Variables
+$extraBig-device: "only screen and (min-width: 1600px)";
+$laptop-device  : "only screen and (min-width: 1200px) and (max-width: 1599px)";
+$desktop-device : "only screen and (min-width: 992px) and (max-width: 1199px)";
+$tablet-device  : "only screen and (min-width: 768px) and (max-width: 991px)";
+$large-mobile   : "only screen and (max-width: 767px)";
+$small-mobile   : "only screen and (max-width: 575px)";
+$extra-small-mobile: "only screen and (max-width: 479px)";

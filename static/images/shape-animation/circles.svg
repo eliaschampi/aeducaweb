@@ -1,0 +1,1433 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 310" width="340" height="310">
+	<title>circles-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m78.64 82.41h9.07v7.03h-9.07v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m157.27 119.68h6.98v7.56h-6.98v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m18.15 82.41h7.56v7.03h-7.56v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="m137.61 140.85h6.05v7.3h-6.05v-7.3z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp5">
+			<path d="m117.95 140.85h7.56v7.3h-7.56v-7.3z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp6">
+			<path d="m60.49 82.41h7.56v7.03h-7.56v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp7">
+			<path d="m98.3 140.85h7.56v7.3h-7.56v-7.3z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp8">
+			<path d="m37.81 82.41h7.56v7.03h-7.56v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp9">
+			<path d="m57.46 140.85h7.56v7.3h-7.56v-7.3z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp10">
+			<path d="m98.3 82.41h7.56v7.03h-7.56v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp11">
+			<path d="m37.81 140.85h7.56v7.3h-7.56v-7.3z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp12">
+			<path d="m117.95 82.41h7.56v7.03h-7.56v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp13">
+			<path d="m80.15 140.85h6.05v7.3h-6.05v-7.3z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp14">
+			<path d="m137.61 82.41h6.05v7.03h-6.05v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp15">
+			<path d="m0 140.85h7.56v7.3h-7.56v-7.3z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp16">
+			<path d="m0 82.41h7.56v7.03h-7.56v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp17">
+			<path d="m18.15 140.85h6.05v7.3h-6.05v-7.3z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp18">
+			<path d="m157.27 82.41h6.98v7.03h-6.98v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp19">
+			<path d="m157.27 142.37h6.05v5.79h-6.05v-5.79z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp20">
+			<path d="m157.27 98.51h6.98v7.56h-6.98v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp21">
+			<path d="m78.64 5h9.07v7.31h-9.07v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp22">
+			<path d="m157.27 42.56h6.98v7.56h-6.98v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp23">
+			<path d="m18.15 5h7.56v7.31h-7.56v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp24">
+			<path d="m137.61 63.73h6.05v7.02h-6.05v-7.02z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp25">
+			<path d="m117.95 63.73h7.56v7.02h-7.56v-7.02z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp26">
+			<path d="m60.49 5h7.56v7.31h-7.56v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp27">
+			<path d="m98.3 63.73h7.56v7.02h-7.56v-7.02z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp28">
+			<path d="m37.81 5h7.56v7.31h-7.56v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp29">
+			<path d="m57.46 63.73h7.56v7.02h-7.56v-7.02z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp30">
+			<path d="m98.3 5h7.56v7.31h-7.56v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp31">
+			<path d="m37.81 63.73h7.56v7.02h-7.56v-7.02z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp32">
+			<path d="m117.95 5h7.56v7.31h-7.56v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp33">
+			<path d="m80.15 63.73h6.05v7.02h-6.05v-7.02z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp34">
+			<path d="m137.61 5h6.05v7.31h-6.05v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp35">
+			<path d="m0 63.73h7.56v7.02h-7.56v-7.02z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp36">
+			<path d="m0 5h7.56v7.31h-7.56v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp37">
+			<path d="m157.27 5h6.98v7.31h-6.98v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp38">
+			<path d="m157.27 21.39h6.98v6.05h-6.98v-6.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp39">
+			<path d="m78.64 237.91h9.07v7.28h-9.07v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp40">
+			<path d="m157.27 275.44h6.98v7.56h-6.98v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp41">
+			<path d="m18.15 237.91h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp42">
+			<path d="m137.61 296.61h6.05v7.05h-6.05v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp43">
+			<path d="m117.95 296.61h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp44">
+			<path d="m60.49 237.91h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp45">
+			<path d="m98.3 296.61h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp46">
+			<path d="m37.81 237.91h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp47">
+			<path d="m57.46 296.61h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp48">
+			<path d="m98.3 237.91h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp49">
+			<path d="m37.81 296.61h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp50">
+			<path d="m117.95 237.91h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp51">
+			<path d="m80.15 296.61h6.05v7.05h-6.05v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp52">
+			<path d="m137.61 237.91h6.05v7.28h-6.05v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp53">
+			<path d="m0 296.61h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp54">
+			<path d="m0 237.91h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp55">
+			<path d="m157.27 237.91h6.98v7.28h-6.98v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp56">
+			<path d="m157.27 254.27h6.98v6.05h-6.98v-6.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp57">
+			<path d="m78.64 161.02h9.07v7.05h-9.07v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp58">
+			<path d="m157.27 198.32h6.98v7.56h-6.98v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp59">
+			<path d="m18.15 161.02h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp60">
+			<path d="m137.61 219.49h6.05v7.28h-6.05v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp61">
+			<path d="m117.95 219.49h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp62">
+			<path d="m60.49 161.02h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp63">
+			<path d="m98.3 219.49h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp64">
+			<path d="m37.81 161.02h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp65">
+			<path d="m57.46 219.49h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp66">
+			<path d="m98.3 161.02h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp67">
+			<path d="m37.81 219.49h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp68">
+			<path d="m117.95 161.02h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp69">
+			<path d="m80.15 219.49h6.05v7.28h-6.05v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp70">
+			<path d="m137.61 161.02h6.05v7.05h-6.05v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp71">
+			<path d="m0 219.49h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp72">
+			<path d="m0 161.02h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp73">
+			<path d="m18.15 219.49h6.05v7.28h-6.05v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp74">
+			<path d="m157.27 161.02h6.98v7.05h-6.98v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp75">
+			<path d="m157.27 219.49h6.05v7.28h-6.05v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp76">
+			<path d="m157.27 177.15h6.98v7.56h-6.98v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp77">
+			<path d="m255.57 82.41h7.56v7.03h-7.56v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp78">
+			<path d="m332.69 119.68h7.2v7.56h-7.2v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp79">
+			<path d="m193.57 82.41h9.07v7.03h-9.07v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp80">
+			<path d="m313.03 140.85h7.56v7.3h-7.56v-7.3z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp81">
+			<path d="m293.37 140.85h7.56v7.3h-7.56v-7.3z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp82">
+			<path d="m237.42 82.41h7.56v7.03h-7.56v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp83">
+			<path d="m273.71 140.85h7.56v7.3h-7.56v-7.3z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp84">
+			<path d="m213.22 82.41h7.56v7.03h-7.56v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp85">
+			<path d="m234.4 140.85h6.05v7.3h-6.05v-7.3z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp86">
+			<path d="m273.71 82.41h7.56v7.03h-7.56v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp87">
+			<path d="m214.74 140.85h6.05v7.3h-6.05v-7.3z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp88">
+			<path d="m293.37 82.41h7.56v7.03h-7.56v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp89">
+			<path d="m255.57 140.85h7.56v7.3h-7.56v-7.3z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp90">
+			<path d="m313.03 82.41h6.05v7.03h-6.05v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp91">
+			<path d="m175.69 119.68h7.29v9.07h-7.29v-9.07z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp92">
+			<path d="m175.69 140.85h7.29v7.3h-7.29v-7.3z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp93">
+			<path d="m175.69 100.02h7.29v7.56h-7.29v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp94">
+			<path d="m175.69 82.41h7.29v7.03h-7.29v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp95">
+			<path d="m193.57 140.85h6.05v7.3h-6.05v-7.3z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp96">
+			<path d="m334.2 82.41h5.69v7.03h-5.69v-7.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp97">
+			<path d="m334.2 142.37h5.69v5.79h-5.69v-5.79z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp98">
+			<path d="m334.2 98.51h5.69v7.56h-5.69v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp99">
+			<path d="m255.57 5h7.56v7.31h-7.56v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp100">
+			<path d="m332.69 42.56h7.2v7.56h-7.2v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp101">
+			<path d="m193.57 5h9.07v7.31h-9.07v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp102">
+			<path d="m313.03 63.73h7.56v7.02h-7.56v-7.02z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp103">
+			<path d="m293.37 63.73h7.56v7.02h-7.56v-7.02z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp104">
+			<path d="m237.42 5h7.56v7.31h-7.56v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp105">
+			<path d="m273.71 63.73h7.56v7.02h-7.56v-7.02z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp106">
+			<path d="m213.22 5h7.56v7.31h-7.56v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp107">
+			<path d="m234.4 63.73h6.05v7.02h-6.05v-7.02z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp108">
+			<path d="m273.71 5h7.56v7.31h-7.56v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp109">
+			<path d="m214.74 63.73h6.05v7.02h-6.05v-7.02z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp110">
+			<path d="m293.37 5h7.56v7.31h-7.56v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp111">
+			<path d="m255.57 63.73h7.56v7.02h-7.56v-7.02z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp112">
+			<path d="m313.03 5h6.05v7.31h-6.05v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp113">
+			<path d="m175.69 42.56h7.29v7.56h-7.29v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp114">
+			<path d="m175.69 63.73h7.29v7.02h-7.29v-7.02z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp115">
+			<path d="m175.69 22.9h7.29v7.56h-7.29v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp116">
+			<path d="m175.69 5h7.29v7.31h-7.29v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp117">
+			<path d="m334.2 5h5.69v7.31h-5.69v-7.31z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp118">
+			<path d="m334.2 63.73h5.69v6.05h-5.69v-6.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp119">
+			<path d="m334.2 21.39h5.69v6.05h-5.69v-6.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp120">
+			<path d="m255.57 237.91h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp121">
+			<path d="m332.69 275.44h7.2v7.56h-7.2v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp122">
+			<path d="m193.57 237.91h9.07v7.28h-9.07v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp123">
+			<path d="m313.03 296.61h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp124">
+			<path d="m293.37 296.61h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp125">
+			<path d="m237.42 237.91h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp126">
+			<path d="m273.71 296.61h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp127">
+			<path d="m213.22 237.91h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp128">
+			<path d="m234.4 296.61h6.05v7.05h-6.05v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp129">
+			<path d="m273.71 237.91h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp130">
+			<path d="m214.74 296.61h6.05v7.05h-6.05v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp131">
+			<path d="m293.37 237.91h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp132">
+			<path d="m255.57 296.61h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp133">
+			<path d="m313.03 237.91h6.05v7.28h-6.05v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp134">
+			<path d="m175.69 275.44h7.29v7.56h-7.29v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp135">
+			<path d="m175.69 296.61h7.29v7.05h-7.29v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp136">
+			<path d="m175.69 255.78h7.29v7.56h-7.29v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp137">
+			<path d="m175.69 237.91h7.29v7.28h-7.29v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp138">
+			<path d="m334.2 237.91h5.69v7.28h-5.69v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp139">
+			<path d="m334.2 296.61h5.69v6.05h-5.69v-6.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp140">
+			<path d="m334.2 254.27h5.69v6.05h-5.69v-6.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp141">
+			<path d="m255.57 161.02h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp142">
+			<path d="m332.69 198.32h7.2v7.56h-7.2v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp143">
+			<path d="m193.57 161.02h9.07v7.05h-9.07v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp144">
+			<path d="m313.03 219.49h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp145">
+			<path d="m293.37 219.49h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp146">
+			<path d="m237.42 161.02h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp147">
+			<path d="m273.71 219.49h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp148">
+			<path d="m213.22 161.02h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp149">
+			<path d="m234.4 219.49h6.05v7.28h-6.05v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp150">
+			<path d="m273.71 161.02h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp151">
+			<path d="m214.74 219.49h6.05v7.28h-6.05v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp152">
+			<path d="m293.37 161.02h7.56v7.05h-7.56v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp153">
+			<path d="m255.57 219.49h7.56v7.28h-7.56v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp154">
+			<path d="m313.03 161.02h6.05v7.05h-6.05v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp155">
+			<path d="m175.69 198.32h7.29v9.07h-7.29v-9.07z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp156">
+			<path d="m175.69 219.49h7.29v7.28h-7.29v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp157">
+			<path d="m175.69 178.66h7.29v7.56h-7.29v-7.56z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp158">
+			<path d="m175.69 161.02h7.29v7.05h-7.29v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp159">
+			<path d="m193.57 219.49h6.05v7.28h-6.05v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp160">
+			<path d="m334.2 161.02h5.69v7.05h-5.69v-7.05z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp161">
+			<path d="m334.2 219.49h5.69v7.28h-5.69v-7.28z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp162">
+			<path d="m334.2 177.15h5.69v7.56h-5.69v-7.56z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #6260b5 } 
+	</style>
+	<g id="surface1">
+		<path id="Layer" class="s0" d="m22.94 120.25c0.85 0.09 1.64 0.12 2.42 0.28c0.72 0.15 1.29 0.56 1.63 1.28c0.32 0.69 0.35 1.34 0 2.06c-0.47 0.94-1.16 1.72-1.94 2.38c-0.82 0.69-1.85 0.9-2.92 0.71c-0.6-0.09-2.95-1.81-3.21-2.35c-0.09-0.22-0.19-0.44-0.22-0.66c-0.06-0.56-0.06-1.09-0.09-1.66c-0.03-1.03 0.25-1.41 1.32-1.62c0.97-0.22 2.01-0.31 3.02-0.44z" />
+		<path id="Layer" class="s0" d="m23.04 100.36c0.79 0.16 1.45 0.25 2.1 0.41c0.82 0.19 1.32 0.75 1.7 1.47c0.15 0.31 0.19 0.66 0.09 1c-0.19 0.75-0.6 1.44-1.13 2c-0.41 0.44-0.94 0.72-1.57 0.82c-1.1 0.19-2.23 0.19-3.24 0.72c-0.75 0.4-1.32-0.04-1.88-0.44c-0.12-0.09-0.28-0.25-0.28-0.41c-0.09-0.84-0.31-1.72-0.22-2.53c0.12-1.19 0.88-2.07 2.01-2.48c0.78-0.31 1.66-0.4 2.42-0.56z" />
+		<path id="Layer" class="s0" d="m79.5 123.47c0.09-0.22 0.19-0.44 0.31-0.63c0.09-0.12 0.22-0.22 0.38-0.31c1.35-0.69 2.74-1.34 4.21-1.72c1.03-0.25 1.88 0.09 2.51 0.97c0.44 0.63 0.57 1.32 0.28 2.04c-0.38 1-1.07 1.75-1.95 2.35c-0.19 0.12-0.44 0.18-0.66 0.22c-0.63 0.09-1.26 0.15-1.89 0.19c-0.47 0-0.97-0.04-1.41-0.13c-0.28-0.06-0.6-0.28-0.79-0.5c-0.63-0.75-0.85-1.59-1-2.48z" />
+		<path id="Layer" class="s0" d="m141.53 120.04c0.31 0.09 0.69 0.09 0.91 0.28c0.47 0.4 0.92 0.87 1.29 1.37c0.13 0.16 0.22 0.44 0.19 0.66c-0.03 0.53-0.06 1.12-0.28 1.62c-0.41 1.03-1.03 1.97-1.75 2.82c-0.41 0.47-0.92 0.59-1.51 0.4c-0.38-0.12-0.75-0.28-1.13-0.37c-0.41-0.12-0.69-0.38-0.91-0.69c-0.28-0.37-0.54-0.78-0.79-1.19c-0.6-0.94-0.6-1.57 0.06-2.37c0.76-0.94 1.67-1.69 2.76-2.22c0.38-0.19 0.79-0.22 1.16-0.31z" />
+		<path id="Layer" class="s0" d="m124.94 123.07c-0.22 1.69-1.1 2.94-2.58 3.76c-0.19 0.09-0.47 0.09-0.69 0.03c-0.38-0.12-0.72-0.44-1.1-0.44c-1.13-0.03-1.72-0.69-2.14-1.62c-0.09-0.22-0.22-0.44-0.34-0.63c-0.54-0.82-0.19-1.47 0.34-1.88c1.07-0.84 2.26-1.47 3.59-1.81c0.84-0.22 1.57 0.03 2.17 0.66c0.5 0.53 0.84 1.16 0.76 1.94z" />
+		<g id="Clip-Path" clip-path="url(#cp1)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m84.12 82.47c0.91 0.06 1.7 0.38 2.29 1.03c0.22 0.22 0.38 0.6 0.41 0.94c0.13 1.16-0.12 2.22-0.97 3.1c-0.41 0.44-0.84 0.84-1.35 1.22c-0.25 0.18-0.63 0.34-0.95 0.34c-1.29-0.03-2.36-0.57-2.95-1.75c-0.28-0.63-0.47-1.28-0.63-1.94c-0.19-0.78 0.25-1.57 0.91-1.97c1-0.69 2.14-0.81 3.24-0.97z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m102.97 120.54c0.85 0 1.42 0.22 1.8 0.84c0.12 0.22 0.25 0.4 0.37 0.62c0.19 0.38 0.25 0.76 0.16 1.16c-0.16 0.63-0.38 1.22-0.85 1.69c-0.72 0.75-1.54 1.38-2.51 1.81c-0.19 0.09-0.5 0.13-0.69 0.06c-0.69-0.22-1.35-0.5-1.7-1.22c-0.25-0.5-0.54-0.97-0.79-1.47c-0.19-0.38-0.06-1.1 0.22-1.35c0.94-0.91 2.01-1.57 3.24-2c0.28-0.12 0.6-0.15 0.75-0.15z" />
+		<g id="Clip-Path" clip-path="url(#cp2)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m160.63 126.76c-0.63 0.04-1-0.09-1.29-0.41c-0.47-0.53-0.91-1.09-1.29-1.68c-0.28-0.41-0.31-0.88-0.19-1.38c0.19-0.79 0.54-1.47 1.35-1.85c0.6-0.25 1.13-0.56 1.72-0.82c1.01-0.4 2.11 0 2.68 0.91c0.12 0.19 0.22 0.41 0.34 0.63c0.28 0.44 0.28 0.9 0.09 1.35c-0.34 0.81-0.79 1.53-1.35 2.22c-0.6 0.78-1.35 1.09-2.07 1.03z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m42.18 120.47c2.26-0.09 3.08 1.97 2.45 3.19c-0.69 1.32-1.72 2.29-2.98 3c-0.41 0.25-0.97 0.16-1.35-0.15c-0.69-0.6-1.19-1.28-1.29-2.22c-0.09-0.63-0.22-1.25-0.31-1.88c-0.06-0.44 0.28-0.97 0.69-1.16c1-0.47 2.07-0.71 2.8-0.78z" />
+		<g id="Clip-Path" clip-path="url(#cp3)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m18.61 85.22c-0.06-0.78 0.25-1.31 0.95-1.65c1.16-0.63 2.45-0.79 3.74-0.79c0.82 0 1.48 0.44 2.01 1.03c0.22 0.22 0.31 0.63 0.31 0.94c0.04 1.87-0.94 3.31-2.67 3.97c-0.31 0.12-0.69 0.12-1 0.06c-0.5-0.12-0.95-0.31-1.48-0.34c-1.04-0.06-1.38-0.5-1.67-1.66c-0.12-0.53-0.16-1.06-0.19-1.57z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp4)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m141.09 141.74c1.25 0 2.26 0.94 2.29 2.25c0.03 1.44-0.6 2.6-1.73 3.47c-0.41 0.31-0.88 0.28-1.38 0.25c-0.66-0.06-1.22-0.28-1.57-0.9c-0.25-0.5-0.56-0.94-0.82-1.44c-0.44-0.91-0.19-1.97 0.6-2.56c0.91-0.75 1.76-1.06 2.61-1.06z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m144.01 103.14c-0.06 0.38-0.09 0.72-0.19 1.03c-0.06 0.25-0.19 0.5-0.34 0.69c-0.79 0.84-1.83 1.38-2.92 1.56c-2.01 0.35-3.52-1.06-3.49-3.12c0-0.34 0.19-0.69 0.47-0.87c1.19-0.72 2.45-1.25 3.8-1.57c0.82-0.19 1.51 0.22 2.17 0.63c0.12 0.09 0.22 0.28 0.25 0.44c0.09 0.41 0.15 0.82 0.25 1.22z" />
+		<g id="Clip-Path" clip-path="url(#cp5)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m124.12 143.71c0.04 0.79-0.28 1.54-0.79 2.16c-0.53 0.66-1.16 1.28-1.76 1.91c-0.28 0.31-1.22 0.22-1.54-0.12c-0.76-0.84-1.26-1.82-1.38-2.94c-0.13-0.94 0.22-1.72 1-2.29c0.44-0.31 0.97-0.53 1.48-0.75c0.91-0.37 1.7-0.09 2.39 0.53c0.41 0.38 0.63 0.87 0.6 1.5z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m62.07 123.44c0.03-0.6 0.19-0.94 0.47-1.25c0.76-0.75 1.67-1.22 2.71-1.44c0.38-0.09 0.79-0.04 1.19 0.03c0.41 0.06 0.72 0.31 0.97 0.66c0.6 0.87 0.66 1.78 0.09 2.69c-0.57 0.87-1.32 1.59-2.14 2.22c-0.57 0.41-1.88 0.19-2.42-0.44c-0.25-0.28-0.51-0.66-0.6-1c-0.19-0.53-0.22-1.09-0.28-1.47z" />
+		<g id="Clip-Path" clip-path="url(#cp6)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m64.83 82.72c0.94-0.09 1.6 0.4 2.32 0.9c0.63 0.44 0.85 1.03 0.79 1.78c-0.06 0.97-0.41 1.81-0.91 2.63c-0.41 0.63-1 0.9-1.76 0.75c-0.34-0.06-0.66-0.25-0.97-0.25c-1.1 0.04-1.48-0.71-1.79-1.53c-0.22-0.56-0.34-1.13-0.47-1.72c-0.15-0.75 0.13-1.35 0.69-1.81c0.6-0.47 1.29-0.79 2.11-0.75z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp7)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m102.88 141.99c1.26-0.06 2.26 1.13 2.01 2.41c-0.06 0.37-0.22 0.75-0.38 1.13c-0.16 0.34-0.41 0.69-0.6 1.03c-0.5 0.82-1.07 1.06-2.01 0.88c-0.31-0.06-0.63-0.16-0.91-0.25c-0.47-0.15-0.84-0.44-1.1-0.87c-0.34-0.53-0.66-1.09-0.76-1.72c-0.12-0.79 0.19-1.44 0.85-1.81c0.85-0.57 1.85-0.82 2.89-0.79z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp8)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m41.99 82.81c0.97-0.03 1.76 0.47 2.39 1.19c0.19 0.22 0.28 0.63 0.31 0.94c0.03 1.25-0.41 2.35-1.29 3.22c-0.44 0.44-0.95 0.75-1.6 0.5c-0.09-0.04-0.16-0.06-0.25-0.06c-1.51 0.09-2.07-0.84-2.42-2.1c-0.19-0.66-0.35-1.31-0.28-2c0.03-0.37 0.19-0.66 0.47-0.84c0.79-0.56 1.64-0.87 2.68-0.84z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp9)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m61.03 141.68c1.26-0.06 2.36 0.87 2.64 1.69c0.09 0.28 0.09 0.63 0.03 0.94c-0.25 1.19-0.79 2.22-1.63 3.1c-0.47 0.47-1.26 0.53-1.73 0.12c-0.41-0.37-0.85-0.75-1.03-1.28c-0.25-0.75-0.51-1.5-0.66-2.25c-0.19-0.87 0.38-1.75 1.26-2.03c0.44-0.19 0.91-0.25 1.13-0.28z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp10)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m105.05 84.88c-0.12 0.56-0.15 1.09-0.34 1.57c-0.16 0.37-0.41 0.78-0.72 1.03c-0.54 0.41-1.16 0.72-1.76 1.06c-0.13 0.09-0.35 0.13-0.5 0.09c-0.73-0.22-1.51-0.31-1.98-1.06c-0.37-0.59-0.69-1.19-0.82-1.87c-0.15-0.84 0.16-1.57 0.85-1.97c0.84-0.5 1.76-0.75 2.7-0.82c0.79-0.06 1.54 0.25 2.07 0.84c0.32 0.28 0.38 0.75 0.5 1.13z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp11)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m39.82 146.78c-0.57-0.81-0.82-1.65-0.88-2.53c-0.06-0.81 0.44-1.56 1.22-1.81c1-0.34 2.04-0.34 3.02 0.04c0.97 0.34 1.41 1.25 1.26 2.28c-0.19 1.09-0.76 1.88-1.8 2.35c-0.53 0.25-1.03 0.35-1.6 0.12c-0.38-0.22-0.85-0.34-1.22-0.44z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp12)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m121.14 88.38c-0.03 0-0.28 0-0.54 0c-0.47-0.03-0.79-0.31-1.06-0.63c-0.63-0.72-0.88-1.62-1.1-2.53c-0.06-0.22 0.09-0.5 0.22-0.69c0.5-0.75 1.29-1.03 2.13-1.32c1.2-0.37 2.14 0.16 3.08 0.75c0.15 0.47 0.44 0.94 0.47 1.41c0.04 0.5-0.09 1-0.22 1.5c-0.22 1.06-1.1 1.65-2.26 1.59c-0.15-0.03-0.34-0.06-0.72-0.09z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp13)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m85.98 144.87c-0.09 0.41-0.28 1.03-0.44 1.63c-0.15 0.56-0.6 0.71-1.1 0.75c-0.16 0.03-0.31 0.03-0.47 0.03c-1.95-0.09-2.58-0.41-3.11-2.88c-0.13-0.6 0.12-1.09 0.6-1.47c0.79-0.63 1.72-0.78 2.7-0.78c0.72 0 1.6 0.93 1.73 1.75c0.06 0.25 0.06 0.5 0.09 0.97z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m66.02 100.99c0.53 0.06 1.07 0.12 1.54 0.22c1.06 0.25 1.72 1.25 1.54 2.32c-0.09 0.5-0.25 1-0.53 1.41c-0.95 1.5-2.83 1.75-4.21 0.6c-0.19-0.16-0.31-0.41-0.44-0.63c-0.44-0.69-0.47-1.44-0.5-2.22c-0.03-0.78 0.41-1.35 1.1-1.5c0.5-0.06 1.03-0.12 1.51-0.19z" />
+		<path id="Layer" class="s0" d="m102.6 100.8c0.25 0.09 0.78 0.22 1.22 0.44c0.57 0.28 0.88 0.82 0.91 1.47c0.09 1.63-0.69 2.75-2.04 3.57c-0.15 0.09-0.34 0.19-0.47 0.15c-0.57-0.15-1.13-0.37-1.67-0.59c-0.13-0.06-0.25-0.25-0.35-0.38c-0.41-0.66-0.75-1.34-0.88-2.13c-0.19-1 0.13-1.59 1.07-2.06c0.73-0.35 1.23-0.47 2.2-0.47z" />
+		<path id="Layer" class="s0" d="m41.76 106.43c-0.34-0.03-0.69-0.03-1-0.15c-0.28-0.12-0.66-0.34-0.79-0.6c-0.47-1-0.75-2.09-0.66-3.22c0.04-0.56 0.35-0.94 0.82-1.22c1.29-0.75 2.76-0.4 3.62 0.82c0.09 0.12 0.18 0.28 0.25 0.44c0.22 1 0.31 2-0.31 2.94c-0.44 0.69-1.04 1.06-1.92 1z" />
+		<g id="Clip-Path" clip-path="url(#cp14)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m143.22 85.34c0.04 1.13-0.44 2-1.25 2.72c-0.69 0.6-1.92 0.6-2.61-0.03c-0.79-0.72-1.22-1.66-1.51-2.66c-0.13-0.44 0.03-0.88 0.34-1.19c1.35-1.31 2.83-1.46 4.47-0.47c0.19 0.12 0.31 0.41 0.37 0.63c0.13 0.31 0.16 0.66 0.19 1z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m4.47 120.04c0.32 0.09 0.69 0.09 0.92 0.28c0.47 0.4 0.91 0.87 1.29 1.37c0.12 0.16 0.22 0.44 0.19 0.66c-0.04 0.53-0.06 1.12-0.28 1.62c-0.41 1.03-1.04 1.97-1.76 2.82c-0.41 0.47-0.91 0.59-1.51 0.4c-0.38-0.12-0.76-0.28-1.13-0.37c-0.41-0.12-0.69-0.38-0.91-0.69c-0.28-0.37-0.54-0.78-0.79-1.19c-0.6-0.94-0.6-1.57 0.06-2.37c0.76-0.94 1.67-1.69 2.77-2.22c0.37-0.19 0.79-0.22 1.16-0.31z" />
+		<g id="Clip-Path" clip-path="url(#cp15)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m4.03 141.74c1.26 0 2.26 0.94 2.29 2.25c0.04 1.44-0.6 2.6-1.72 3.47c-0.41 0.31-0.88 0.28-1.38 0.25c-0.66-0.06-1.23-0.28-1.57-0.9c-0.25-0.5-0.57-0.94-0.82-1.44c-0.44-0.91-0.19-1.97 0.6-2.56c0.92-0.75 1.76-1.06 2.61-1.06z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m6.95 103.14c-0.06 0.38-0.09 0.72-0.19 1.03c-0.06 0.25-0.19 0.5-0.35 0.69c-0.79 0.84-1.82 1.38-2.92 1.56c-2.01 0.35-3.52-1.06-3.49-3.12c0-0.34 0.19-0.69 0.47-0.87c1.19-0.72 2.45-1.25 3.8-1.57c0.82-0.19 1.51 0.22 2.17 0.63c0.12 0.09 0.22 0.28 0.25 0.44c0.09 0.41 0.16 0.82 0.25 1.22z" />
+		<g id="Clip-Path" clip-path="url(#cp16)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m6.17 85.34c0.03 1.13-0.44 2-1.26 2.72c-0.69 0.6-1.92 0.6-2.61-0.03c-0.79-0.72-1.22-1.66-1.51-2.66c-0.12-0.44 0.03-0.88 0.35-1.19c1.35-1.31 2.82-1.46 4.46-0.47c0.19 0.12 0.31 0.41 0.38 0.63c0.12 0.31 0.12 0.66 0.19 1z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp17)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m20.49 142.28c0.44 0 0.6 0 0.76 0c1-0.03 1.67 0.47 2.17 1.25c0.22 0.34 0.28 0.75 0.22 1.12c-0.19 1.22-0.94 2-2.07 2.41c-0.28 0.09-0.66 0.09-0.91-0.03c-1.54-0.72-2.23-2.04-1.98-3.69c0.06-0.47 0.47-0.91 0.94-0.97c0.35-0.04 0.73-0.06 0.88-0.09z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m123.78 103.3c-0.04 1.06-0.22 2.03-1.01 2.81c-0.25 0.25-0.6 0.41-0.94 0.31c-0.76-0.15-1.45-0.5-1.88-1.19c-0.47-0.72-0.79-1.5-0.95-2.35c-0.09-0.53 0.09-1 0.47-1.38c0.76-0.72 1.73-0.87 2.61-0.44c0.38 0.19 0.73 0.44 1.1 0.69c0.37 0.25 0.53 0.66 0.56 1.1c0.04 0.09 0.04 0.28 0.04 0.44z" />
+		<path id="Layer" class="s0" d="m85.82 103.36c-0.06 0.28-0.12 0.82-0.31 1.29c-0.31 0.87-0.97 1.38-1.92 1.53c-0.69 0.12-1.44-0.19-1.79-0.75c-0.5-0.82-0.84-1.69-0.84-2.66c0-0.82 0.5-1.47 1.35-1.66c1.19-0.28 2.2 0.06 3.08 0.84c0.34 0.34 0.44 0.75 0.44 1.41z" />
+		<g id="Clip-Path" clip-path="url(#cp18)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m163.56 85.66c-0.06 0.79-0.38 1.47-0.85 2.1c-0.09 0.12-0.25 0.25-0.41 0.31c-0.97 0.47-2.42 0.16-2.98-0.72c-0.31-0.5-0.57-1.06-0.79-1.59c-0.19-0.44 0-1.06 0.38-1.41c0.5-0.47 1.07-0.84 1.76-1c0.91-0.22 1.7 0.04 2.35 0.66c0.47 0.44 0.54 1.03 0.54 1.65z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp19)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m158.78 144.75c0.19-0.5 0.38-1.13 0.66-1.66c0.31-0.62 1.48-0.9 2.14-0.56c0.22 0.09 0.41 0.22 0.6 0.38c1.45 1.09 1.35 2.91-0.19 3.94c-0.82 0.53-1.98 0.34-2.55-0.47c-0.19-0.25-0.34-0.53-0.47-0.81c-0.06-0.25-0.09-0.5-0.19-0.82z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp20)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m161.61 104.65c-0.03 0-0.38 0-0.72-0.09c-0.25-0.06-0.5-0.16-0.69-0.31c-0.66-0.57-1.16-1.25-1.54-2.03c-0.38-0.82 0.03-1.78 0.91-2.1c1.16-0.44 2.2-0.16 3.11 0.59c0.25 0.19 0.41 0.53 0.53 0.84c0.22 0.57 0.22 1.16 0.16 1.75c-0.06 1.06-0.5 1.38-1.76 1.35z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m22.94 42.85c0.85 0.09 1.64 0.12 2.42 0.28c0.72 0.15 1.29 0.56 1.63 1.28c0.32 0.69 0.35 1.35 0 2.06c-0.47 0.94-1.16 1.72-1.94 2.38c-0.82 0.69-1.85 0.9-2.92 0.72c-0.6-0.09-2.95-1.81-3.21-2.35c-0.09-0.22-0.19-0.44-0.22-0.66c-0.06-0.56-0.06-1.09-0.09-1.65c-0.03-1.03 0.25-1.41 1.32-1.63c0.97-0.22 2.01-0.31 3.02-0.44z" />
+		<path id="Layer" class="s0" d="m23.04 22.95c0.79 0.16 1.45 0.25 2.1 0.41c0.82 0.19 1.32 0.75 1.7 1.47c0.15 0.31 0.19 0.66 0.09 1c-0.19 0.75-0.6 1.44-1.13 2c-0.41 0.44-0.94 0.72-1.57 0.82c-1.1 0.19-2.23 0.19-3.24 0.72c-0.75 0.41-1.32-0.03-1.88-0.44c-0.12-0.09-0.28-0.25-0.28-0.41c-0.09-0.84-0.31-1.72-0.22-2.53c0.12-1.19 0.88-2.06 2.01-2.47c0.78-0.31 1.66-0.41 2.42-0.57z" />
+		<path id="Layer" class="s0" d="m79.5 46.07c0.09-0.22 0.19-0.44 0.31-0.63c0.09-0.12 0.22-0.22 0.38-0.31c1.35-0.69 2.74-1.35 4.21-1.72c1.03-0.25 1.88 0.09 2.51 0.97c0.44 0.63 0.57 1.31 0.28 2.03c-0.38 1-1.07 1.75-1.95 2.35c-0.19 0.12-0.44 0.19-0.66 0.22c-0.63 0.09-1.26 0.16-1.89 0.19c-0.47 0-0.97-0.03-1.41-0.12c-0.28-0.06-0.6-0.28-0.79-0.5c-0.63-0.75-0.85-1.59-1-2.47z" />
+		<path id="Layer" class="s0" d="m141.53 42.63c0.31 0.09 0.69 0.09 0.91 0.28c0.47 0.41 0.92 0.87 1.29 1.38c0.13 0.15 0.22 0.44 0.19 0.66c-0.03 0.53-0.06 1.13-0.28 1.62c-0.41 1.03-1.03 1.97-1.75 2.82c-0.41 0.47-0.92 0.6-1.51 0.41c-0.38-0.12-0.75-0.28-1.13-0.38c-0.41-0.12-0.69-0.37-0.91-0.69c-0.28-0.38-0.54-0.79-0.79-1.19c-0.6-0.94-0.6-1.57 0.06-2.38c0.76-0.94 1.67-1.69 2.76-2.22c0.38-0.19 0.79-0.22 1.16-0.31z" />
+		<path id="Layer" class="s0" d="m124.94 45.66c-0.22 1.69-1.1 2.94-2.58 3.75c-0.19 0.09-0.47 0.09-0.69 0.04c-0.38-0.13-0.72-0.44-1.1-0.44c-1.13-0.03-1.72-0.69-2.14-1.62c-0.09-0.22-0.22-0.44-0.34-0.63c-0.54-0.82-0.19-1.47 0.34-1.88c1.07-0.84 2.26-1.46 3.59-1.81c0.84-0.22 1.57 0.04 2.17 0.66c0.5 0.54 0.84 1.16 0.76 1.94z" />
+		<g id="Clip-Path" clip-path="url(#cp21)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m84.12 5.06c0.91 0.06 1.7 0.37 2.29 1.03c0.22 0.22 0.38 0.6 0.41 0.94c0.13 1.16-0.12 2.22-0.97 3.1c-0.41 0.44-0.84 0.84-1.35 1.22c-0.25 0.19-0.63 0.34-0.95 0.34c-1.29-0.03-2.36-0.56-2.95-1.75c-0.28-0.63-0.47-1.29-0.63-1.94c-0.19-0.78 0.25-1.56 0.91-1.97c1-0.69 2.14-0.82 3.24-0.97z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m102.97 43.13c0.85 0 1.42 0.22 1.8 0.84c0.12 0.22 0.25 0.41 0.37 0.63c0.19 0.37 0.25 0.75 0.16 1.16c-0.16 0.63-0.38 1.22-0.85 1.69c-0.72 0.75-1.54 1.38-2.51 1.81c-0.19 0.09-0.5 0.12-0.69 0.06c-0.69-0.22-1.35-0.5-1.7-1.22c-0.25-0.5-0.54-0.97-0.79-1.47c-0.19-0.38-0.06-1.09 0.22-1.35c0.94-0.9 2.01-1.57 3.24-2c0.28-0.12 0.6-0.15 0.75-0.15z" />
+		<g id="Clip-Path" clip-path="url(#cp22)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m160.63 49.36c-0.63 0.03-1-0.09-1.29-0.41c-0.47-0.53-0.91-1.1-1.29-1.69c-0.28-0.41-0.31-0.87-0.19-1.38c0.19-0.79 0.54-1.47 1.35-1.85c0.6-0.25 1.13-0.56 1.72-0.81c1.01-0.41 2.11 0 2.68 0.9c0.12 0.19 0.22 0.41 0.34 0.63c0.28 0.44 0.28 0.91 0.09 1.35c-0.34 0.82-0.79 1.53-1.35 2.22c-0.6 0.78-1.35 1.09-2.07 1.03z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m42.18 43.07c2.26-0.09 3.08 1.97 2.45 3.19c-0.69 1.32-1.72 2.29-2.98 3.01c-0.41 0.25-0.97 0.15-1.35-0.16c-0.69-0.59-1.19-1.28-1.29-2.22c-0.09-0.63-0.22-1.25-0.31-1.87c-0.06-0.44 0.28-0.97 0.69-1.16c1-0.47 2.07-0.72 2.8-0.79z" />
+		<g id="Clip-Path" clip-path="url(#cp23)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m18.61 7.81c-0.06-0.78 0.25-1.31 0.95-1.65c1.16-0.63 2.45-0.79 3.74-0.79c0.82 0 1.48 0.44 2.01 1.03c0.22 0.22 0.31 0.63 0.31 0.94c0.04 1.88-0.94 3.31-2.67 3.98c-0.31 0.12-0.69 0.12-1 0.06c-0.5-0.12-0.95-0.31-1.48-0.34c-1.04-0.06-1.38-0.5-1.67-1.66c-0.12-0.53-0.16-1.06-0.19-1.57z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp24)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m141.09 64.34c1.25 0 2.26 0.94 2.29 2.25c0.03 1.44-0.6 2.6-1.73 3.47c-0.41 0.31-0.88 0.28-1.38 0.25c-0.66-0.06-1.22-0.28-1.57-0.9c-0.25-0.5-0.56-0.94-0.82-1.44c-0.44-0.9-0.19-1.97 0.6-2.56c0.91-0.75 1.76-1.06 2.61-1.06z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m144.01 25.74c-0.06 0.37-0.09 0.71-0.19 1.03c-0.06 0.25-0.19 0.5-0.34 0.69c-0.79 0.84-1.83 1.38-2.92 1.57c-2.01 0.34-3.52-1.06-3.49-3.13c0-0.34 0.19-0.69 0.47-0.87c1.19-0.72 2.45-1.25 3.8-1.57c0.82-0.19 1.51 0.22 2.17 0.63c0.12 0.09 0.22 0.28 0.25 0.44c0.09 0.41 0.15 0.82 0.25 1.22z" />
+		<g id="Clip-Path" clip-path="url(#cp25)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m124.12 66.31c0.04 0.78-0.28 1.53-0.79 2.16c-0.53 0.66-1.16 1.28-1.76 1.91c-0.28 0.31-1.22 0.22-1.54-0.12c-0.76-0.84-1.26-1.81-1.38-2.94c-0.13-0.94 0.22-1.72 1-2.28c0.44-0.31 0.97-0.53 1.48-0.75c0.91-0.38 1.7-0.09 2.39 0.53c0.41 0.37 0.63 0.87 0.6 1.5z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m62.07 46.04c0.03-0.59 0.19-0.94 0.47-1.25c0.76-0.76 1.67-1.22 2.71-1.44c0.38-0.09 0.79-0.03 1.19 0.03c0.41 0.06 0.72 0.31 0.97 0.66c0.6 0.88 0.66 1.78 0.09 2.69c-0.57 0.87-1.32 1.59-2.14 2.22c-0.57 0.41-1.88 0.19-2.42-0.44c-0.25-0.28-0.51-0.66-0.6-1c-0.19-0.53-0.22-1.09-0.28-1.47z" />
+		<g id="Clip-Path" clip-path="url(#cp26)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m64.83 5.31c0.94-0.09 1.6 0.41 2.32 0.9c0.63 0.44 0.85 1.03 0.79 1.78c-0.06 0.97-0.41 1.81-0.91 2.63c-0.41 0.63-1 0.91-1.76 0.75c-0.34-0.06-0.66-0.25-0.97-0.25c-1.1 0.03-1.48-0.72-1.79-1.54c-0.22-0.56-0.34-1.12-0.47-1.72c-0.15-0.75 0.13-1.35 0.69-1.81c0.6-0.47 1.29-0.78 2.11-0.75z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp27)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m102.88 64.59c1.26-0.06 2.26 1.13 2.01 2.41c-0.06 0.38-0.22 0.75-0.38 1.13c-0.16 0.34-0.41 0.69-0.6 1.03c-0.5 0.81-1.07 1.06-2.01 0.87c-0.31-0.06-0.63-0.16-0.91-0.25c-0.47-0.15-0.84-0.44-1.1-0.87c-0.34-0.53-0.66-1.09-0.76-1.72c-0.12-0.78 0.19-1.44 0.85-1.81c0.85-0.56 1.85-0.82 2.89-0.79z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp28)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m41.99 5.41c0.97-0.04 1.76 0.47 2.39 1.19c0.19 0.22 0.28 0.63 0.31 0.94c0.03 1.25-0.41 2.35-1.29 3.22c-0.44 0.44-0.95 0.75-1.6 0.5c-0.09-0.03-0.16-0.06-0.25-0.06c-1.51 0.09-2.07-0.84-2.42-2.09c-0.19-0.66-0.35-1.32-0.28-2c0.03-0.38 0.19-0.66 0.47-0.84c0.79-0.57 1.64-0.88 2.68-0.84z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp29)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m61.03 64.28c1.26-0.06 2.36 0.87 2.64 1.68c0.09 0.28 0.09 0.63 0.03 0.94c-0.25 1.19-0.79 2.22-1.63 3.1c-0.47 0.47-1.26 0.53-1.73 0.12c-0.41-0.38-0.85-0.75-1.03-1.28c-0.25-0.75-0.51-1.51-0.66-2.26c-0.19-0.87 0.38-1.75 1.26-2.03c0.44-0.19 0.91-0.25 1.13-0.28z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp30)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m105.05 7.47c-0.12 0.57-0.15 1.1-0.34 1.57c-0.16 0.38-0.41 0.78-0.72 1.03c-0.54 0.41-1.16 0.72-1.76 1.06c-0.13 0.09-0.35 0.12-0.5 0.09c-0.73-0.22-1.51-0.31-1.98-1.06c-0.37-0.6-0.69-1.19-0.82-1.88c-0.15-0.84 0.16-1.57 0.85-1.97c0.84-0.5 1.76-0.75 2.7-0.81c0.79-0.06 1.54 0.25 2.07 0.84c0.32 0.28 0.38 0.75 0.5 1.12z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp31)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m39.82 69.38c-0.57-0.82-0.82-1.66-0.88-2.53c-0.06-0.82 0.44-1.57 1.22-1.81c1-0.35 2.04-0.35 3.02 0.03c0.97 0.34 1.41 1.25 1.26 2.28c-0.19 1.1-0.76 1.88-1.8 2.35c-0.53 0.25-1.03 0.34-1.6 0.12c-0.38-0.22-0.85-0.34-1.22-0.44z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp32)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m121.14 10.97c-0.03 0-0.28 0-0.54 0c-0.47-0.03-0.79-0.31-1.06-0.63c-0.63-0.71-0.88-1.62-1.1-2.53c-0.06-0.22 0.09-0.5 0.22-0.69c0.5-0.75 1.29-1.03 2.13-1.31c1.2-0.38 2.14 0.15 3.08 0.75c0.15 0.47 0.44 0.94 0.47 1.41c0.04 0.5-0.09 1-0.22 1.5c-0.22 1.06-1.1 1.66-2.26 1.59c-0.15-0.03-0.34-0.06-0.72-0.09z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp33)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m85.98 67.47c-0.09 0.4-0.28 1.03-0.44 1.62c-0.15 0.56-0.6 0.72-1.1 0.75c-0.16 0.03-0.31 0.03-0.47 0.03c-1.95-0.09-2.58-0.4-3.11-2.88c-0.13-0.59 0.12-1.09 0.6-1.47c0.79-0.63 1.72-0.78 2.7-0.78c0.72 0 1.6 0.94 1.73 1.75c0.06 0.25 0.06 0.5 0.09 0.97z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m66.02 23.58c0.53 0.06 1.07 0.13 1.54 0.22c1.06 0.25 1.72 1.25 1.54 2.32c-0.09 0.5-0.25 1-0.53 1.41c-0.95 1.5-2.83 1.75-4.21 0.59c-0.19-0.15-0.31-0.41-0.44-0.63c-0.44-0.69-0.47-1.44-0.5-2.22c-0.03-0.78 0.41-1.34 1.1-1.5c0.5-0.06 1.03-0.12 1.51-0.19z" />
+		<path id="Layer" class="s0" d="m102.6 23.39c0.25 0.09 0.78 0.22 1.22 0.44c0.57 0.28 0.88 0.81 0.91 1.47c0.09 1.62-0.69 2.75-2.04 3.56c-0.15 0.09-0.34 0.19-0.47 0.16c-0.57-0.16-1.13-0.38-1.67-0.6c-0.13-0.06-0.25-0.25-0.35-0.37c-0.41-0.66-0.75-1.35-0.88-2.13c-0.19-1 0.13-1.59 1.07-2.06c0.73-0.34 1.23-0.47 2.2-0.47z" />
+		<path id="Layer" class="s0" d="m41.76 29.02c-0.34-0.04-0.69-0.04-1-0.16c-0.28-0.12-0.66-0.34-0.79-0.59c-0.47-1-0.75-2.1-0.66-3.23c0.04-0.56 0.35-0.94 0.82-1.22c1.29-0.75 2.76-0.41 3.62 0.81c0.09 0.13 0.18 0.28 0.25 0.44c0.22 1 0.31 2-0.31 2.94c-0.44 0.69-1.04 1.06-1.92 1z" />
+		<g id="Clip-Path" clip-path="url(#cp34)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m143.22 7.94c0.04 1.12-0.44 2-1.25 2.72c-0.69 0.6-1.92 0.6-2.61-0.03c-0.79-0.72-1.22-1.66-1.51-2.66c-0.13-0.44 0.03-0.87 0.34-1.19c1.35-1.32 2.83-1.47 4.47-0.47c0.19 0.13 0.31 0.41 0.37 0.63c0.13 0.31 0.16 0.66 0.19 1z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m4.47 42.63c0.32 0.09 0.69 0.09 0.92 0.28c0.47 0.41 0.91 0.87 1.29 1.38c0.12 0.15 0.22 0.44 0.19 0.66c-0.04 0.53-0.06 1.13-0.28 1.62c-0.41 1.03-1.04 1.97-1.76 2.82c-0.41 0.47-0.91 0.6-1.51 0.41c-0.38-0.12-0.76-0.28-1.13-0.38c-0.41-0.12-0.69-0.37-0.91-0.69c-0.28-0.38-0.54-0.79-0.79-1.19c-0.6-0.94-0.6-1.57 0.06-2.38c0.76-0.94 1.67-1.69 2.77-2.22c0.37-0.19 0.79-0.22 1.16-0.31z" />
+		<g id="Clip-Path" clip-path="url(#cp35)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m4.03 64.34c1.26 0 2.26 0.94 2.29 2.25c0.04 1.44-0.6 2.6-1.72 3.47c-0.41 0.31-0.88 0.28-1.38 0.25c-0.66-0.06-1.23-0.28-1.57-0.9c-0.25-0.5-0.57-0.94-0.82-1.44c-0.44-0.9-0.19-1.97 0.6-2.56c0.92-0.75 1.76-1.06 2.61-1.06z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m6.95 25.74c-0.06 0.37-0.09 0.71-0.19 1.03c-0.06 0.25-0.19 0.5-0.35 0.69c-0.79 0.84-1.82 1.38-2.92 1.57c-2.01 0.34-3.52-1.06-3.49-3.13c0-0.34 0.19-0.69 0.47-0.87c1.19-0.72 2.45-1.25 3.8-1.57c0.82-0.19 1.51 0.22 2.17 0.63c0.12 0.09 0.22 0.28 0.25 0.44c0.09 0.41 0.16 0.82 0.25 1.22z" />
+		<g id="Clip-Path" clip-path="url(#cp36)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m6.17 7.94c0.03 1.12-0.44 2-1.26 2.72c-0.69 0.6-1.92 0.6-2.61-0.03c-0.79-0.72-1.22-1.66-1.51-2.66c-0.12-0.44 0.03-0.87 0.35-1.19c1.35-1.32 2.82-1.47 4.46-0.47c0.19 0.13 0.31 0.41 0.38 0.63c0.12 0.31 0.12 0.66 0.19 1z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m20.49 64.87c0.44 0 0.6 0 0.76 0c1-0.03 1.67 0.47 2.17 1.25c0.22 0.34 0.28 0.75 0.22 1.13c-0.19 1.22-0.94 2-2.07 2.4c-0.28 0.09-0.66 0.09-0.91-0.03c-1.54-0.72-2.23-2.03-1.98-3.69c0.06-0.47 0.47-0.9 0.94-0.97c0.35-0.03 0.73-0.06 0.88-0.09z" />
+		<path id="Layer" class="s0" d="m123.78 25.89c-0.04 1.06-0.22 2.03-1.01 2.82c-0.25 0.25-0.6 0.41-0.94 0.31c-0.76-0.16-1.45-0.5-1.88-1.19c-0.47-0.71-0.79-1.5-0.95-2.35c-0.09-0.53 0.09-1 0.47-1.38c0.76-0.71 1.73-0.87 2.61-0.44c0.38 0.19 0.73 0.44 1.1 0.69c0.37 0.25 0.53 0.66 0.56 1.09c0.04 0.09 0.04 0.28 0.04 0.44z" />
+		<path id="Layer" class="s0" d="m85.82 25.96c-0.06 0.28-0.12 0.81-0.31 1.28c-0.31 0.87-0.97 1.38-1.92 1.53c-0.69 0.13-1.44-0.18-1.79-0.75c-0.5-0.81-0.84-1.69-0.84-2.66c0-0.82 0.5-1.47 1.35-1.65c1.19-0.28 2.2 0.06 3.08 0.84c0.34 0.35 0.44 0.76 0.44 1.41z" />
+		<g id="Clip-Path" clip-path="url(#cp37)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m163.56 8.25c-0.06 0.78-0.38 1.47-0.85 2.09c-0.09 0.13-0.25 0.25-0.41 0.31c-0.97 0.47-2.42 0.16-2.98-0.71c-0.31-0.5-0.57-1.06-0.79-1.59c-0.19-0.44 0-1.07 0.38-1.41c0.5-0.47 1.07-0.84 1.76-1c0.91-0.22 1.7 0.03 2.35 0.66c0.47 0.44 0.54 1.03 0.54 1.66z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m158.78 67.34c0.19-0.5 0.38-1.12 0.66-1.65c0.31-0.63 1.48-0.91 2.14-0.57c0.22 0.09 0.41 0.22 0.6 0.38c1.45 1.09 1.35 2.91-0.19 3.94c-0.82 0.53-1.98 0.34-2.55-0.47c-0.19-0.25-0.34-0.53-0.47-0.82c-0.06-0.25-0.09-0.5-0.19-0.82z" />
+		<g id="Clip-Path" clip-path="url(#cp38)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m161.61 27.24c-0.03 0-0.38 0-0.72-0.09c-0.25-0.06-0.5-0.15-0.69-0.31c-0.66-0.56-1.16-1.25-1.54-2.03c-0.38-0.82 0.03-1.78 0.91-2.1c1.16-0.44 2.2-0.15 3.11 0.6c0.25 0.18 0.41 0.53 0.53 0.84c0.22 0.56 0.22 1.16 0.16 1.75c-0.06 1.06-0.5 1.38-1.76 1.35z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m22.94 275.76c0.85 0.09 1.64 0.12 2.42 0.28c0.72 0.16 1.29 0.57 1.63 1.29c0.32 0.69 0.35 1.34 0 2.06c-0.47 0.94-1.16 1.72-1.94 2.37c-0.82 0.69-1.85 0.91-2.92 0.72c-0.6-0.09-2.95-1.81-3.21-2.35c-0.09-0.22-0.19-0.44-0.22-0.66c-0.06-0.56-0.06-1.09-0.09-1.66c-0.03-1.03 0.25-1.41 1.32-1.62c0.97-0.22 2.01-0.31 3.02-0.44z" />
+		<path id="Layer" class="s0" d="m23.04 255.87c0.79 0.15 1.45 0.25 2.1 0.41c0.82 0.19 1.32 0.75 1.7 1.47c0.15 0.31 0.19 0.66 0.09 1c-0.19 0.75-0.6 1.44-1.13 2c-0.41 0.44-0.94 0.72-1.57 0.82c-1.1 0.18-2.23 0.18-3.24 0.72c-0.75 0.4-1.32-0.04-1.88-0.44c-0.12-0.09-0.28-0.25-0.28-0.4c-0.09-0.84-0.31-1.72-0.22-2.53c0.12-1.19 0.88-2.07 2.01-2.48c0.78-0.31 1.66-0.41 2.42-0.56z" />
+		<path id="Layer" class="s0" d="m79.5 278.98c0.09-0.22 0.19-0.44 0.31-0.63c0.09-0.12 0.22-0.22 0.38-0.31c1.35-0.69 2.74-1.34 4.21-1.72c1.03-0.25 1.88 0.09 2.51 0.97c0.44 0.63 0.57 1.32 0.28 2.03c-0.38 1-1.07 1.75-1.95 2.35c-0.19 0.12-0.44 0.18-0.66 0.22c-0.63 0.09-1.26 0.15-1.89 0.18c-0.47 0-0.97-0.03-1.41-0.12c-0.28-0.06-0.6-0.28-0.79-0.5c-0.63-0.76-0.85-1.6-1-2.48z" />
+		<path id="Layer" class="s0" d="m141.53 275.54c0.31 0.09 0.69 0.09 0.91 0.28c0.47 0.41 0.92 0.88 1.29 1.38c0.13 0.16 0.22 0.44 0.19 0.66c-0.03 0.53-0.06 1.12-0.28 1.62c-0.41 1.03-1.03 1.97-1.75 2.82c-0.41 0.47-0.92 0.59-1.51 0.4c-0.38-0.12-0.75-0.28-1.13-0.37c-0.41-0.12-0.69-0.38-0.91-0.69c-0.28-0.37-0.54-0.78-0.79-1.19c-0.6-0.94-0.6-1.57 0.06-2.37c0.76-0.94 1.67-1.69 2.76-2.22c0.38-0.19 0.79-0.22 1.16-0.31z" />
+		<path id="Layer" class="s0" d="m124.94 278.57c-0.22 1.69-1.1 2.94-2.58 3.76c-0.19 0.09-0.47 0.09-0.69 0.03c-0.38-0.12-0.72-0.44-1.1-0.44c-1.13-0.03-1.72-0.69-2.14-1.62c-0.09-0.22-0.22-0.44-0.34-0.63c-0.54-0.82-0.19-1.47 0.34-1.88c1.07-0.84 2.26-1.47 3.59-1.81c0.84-0.22 1.57 0.03 2.17 0.66c0.5 0.53 0.84 1.16 0.76 1.94z" />
+		<g id="Clip-Path" clip-path="url(#cp39)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m84.12 237.97c0.91 0.06 1.7 0.38 2.29 1.03c0.22 0.22 0.38 0.59 0.41 0.94c0.13 1.16-0.12 2.22-0.97 3.1c-0.41 0.44-0.84 0.84-1.35 1.22c-0.25 0.19-0.63 0.35-0.95 0.35c-1.29-0.04-2.36-0.57-2.95-1.75c-0.28-0.63-0.47-1.28-0.63-1.94c-0.19-0.79 0.25-1.57 0.91-1.97c1-0.69 2.14-0.81 3.24-0.97z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m102.97 276.04c0.85 0 1.42 0.22 1.8 0.84c0.12 0.22 0.25 0.41 0.37 0.63c0.19 0.38 0.25 0.75 0.16 1.16c-0.16 0.63-0.38 1.22-0.85 1.69c-0.72 0.75-1.54 1.38-2.51 1.81c-0.19 0.09-0.5 0.13-0.69 0.06c-0.69-0.22-1.35-0.5-1.7-1.22c-0.25-0.5-0.54-0.97-0.79-1.46c-0.19-0.38-0.06-1.1 0.22-1.35c0.94-0.91 2.01-1.57 3.24-2c0.28-0.12 0.6-0.16 0.75-0.16z" />
+		<g id="Clip-Path" clip-path="url(#cp40)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m160.63 282.26c-0.63 0.04-1-0.09-1.29-0.41c-0.47-0.53-0.91-1.09-1.29-1.69c-0.28-0.4-0.31-0.87-0.19-1.38c0.19-0.78 0.54-1.46 1.35-1.84c0.6-0.25 1.13-0.56 1.72-0.82c1.01-0.41 2.11 0 2.68 0.91c0.12 0.19 0.22 0.41 0.34 0.63c0.28 0.44 0.28 0.9 0.09 1.34c-0.34 0.82-0.79 1.54-1.35 2.22c-0.6 0.79-1.35 1.1-2.07 1.03z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m42.18 275.98c2.26-0.09 3.08 1.97 2.45 3.19c-0.69 1.31-1.72 2.29-2.98 3c-0.41 0.25-0.97 0.16-1.35-0.15c-0.69-0.6-1.19-1.28-1.29-2.22c-0.09-0.63-0.22-1.25-0.31-1.88c-0.06-0.44 0.28-0.97 0.69-1.16c1-0.47 2.07-0.72 2.8-0.78z" />
+		<g id="Clip-Path" clip-path="url(#cp41)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m18.61 240.73c-0.06-0.78 0.25-1.31 0.95-1.66c1.16-0.62 2.45-0.78 3.74-0.78c0.82 0 1.48 0.44 2.01 1.03c0.22 0.22 0.31 0.63 0.31 0.94c0.04 1.87-0.94 3.31-2.67 3.97c-0.31 0.12-0.69 0.12-1 0.06c-0.5-0.12-0.95-0.31-1.48-0.35c-1.04-0.06-1.38-0.5-1.67-1.65c-0.12-0.53-0.16-1.06-0.19-1.57z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp42)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m141.09 297.25c1.25 0 2.26 0.94 2.29 2.25c0.03 1.44-0.6 2.59-1.73 3.47c-0.41 0.31-0.88 0.28-1.38 0.25c-0.66-0.06-1.22-0.28-1.57-0.91c-0.25-0.5-0.56-0.93-0.82-1.44c-0.44-0.91-0.19-1.97 0.6-2.56c0.91-0.75 1.76-1.06 2.61-1.06z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m144.01 258.65c-0.06 0.38-0.09 0.72-0.19 1.03c-0.06 0.25-0.19 0.5-0.34 0.69c-0.79 0.84-1.83 1.37-2.92 1.56c-2.01 0.35-3.52-1.06-3.49-3.12c0-0.35 0.19-0.69 0.47-0.88c1.19-0.71 2.45-1.25 3.8-1.56c0.82-0.19 1.51 0.22 2.17 0.63c0.12 0.09 0.22 0.28 0.25 0.44c0.09 0.41 0.15 0.81 0.25 1.22z" />
+		<g id="Clip-Path" clip-path="url(#cp43)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m124.12 299.22c0.04 0.79-0.28 1.54-0.79 2.16c-0.53 0.66-1.16 1.28-1.76 1.91c-0.28 0.31-1.22 0.22-1.54-0.13c-0.76-0.84-1.26-1.81-1.38-2.94c-0.13-0.94 0.22-1.72 1-2.29c0.44-0.31 0.97-0.53 1.48-0.75c0.91-0.37 1.7-0.09 2.39 0.53c0.41 0.38 0.63 0.87 0.6 1.5z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m62.07 278.95c0.03-0.6 0.19-0.94 0.47-1.25c0.76-0.75 1.67-1.22 2.71-1.44c0.38-0.09 0.79-0.04 1.19 0.03c0.41 0.06 0.72 0.31 0.97 0.66c0.6 0.87 0.66 1.78 0.09 2.69c-0.57 0.88-1.32 1.59-2.14 2.22c-0.57 0.41-1.88 0.19-2.42-0.44c-0.25-0.28-0.51-0.66-0.6-1c-0.19-0.53-0.22-1.1-0.28-1.47z" />
+		<g id="Clip-Path" clip-path="url(#cp44)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m64.83 238.22c0.94-0.09 1.6 0.41 2.32 0.91c0.63 0.44 0.85 1.03 0.79 1.78c-0.06 0.97-0.41 1.81-0.91 2.63c-0.41 0.63-1 0.9-1.76 0.75c-0.34-0.06-0.66-0.25-0.97-0.25c-1.1 0.04-1.48-0.71-1.79-1.53c-0.22-0.56-0.34-1.13-0.47-1.72c-0.15-0.75 0.13-1.35 0.69-1.81c0.6-0.47 1.29-0.79 2.11-0.76z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp45)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m102.88 297.5c1.26-0.06 2.26 1.13 2.01 2.41c-0.06 0.37-0.22 0.75-0.38 1.12c-0.16 0.35-0.41 0.69-0.6 1.03c-0.5 0.82-1.07 1.06-2.01 0.87c-0.31-0.06-0.63-0.15-0.91-0.25c-0.47-0.15-0.84-0.44-1.1-0.87c-0.34-0.53-0.66-1.1-0.76-1.72c-0.12-0.79 0.19-1.44 0.85-1.82c0.85-0.56 1.85-0.81 2.89-0.78z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp46)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m41.99 238.32c0.97-0.03 1.76 0.47 2.39 1.19c0.19 0.22 0.28 0.62 0.31 0.93c0.03 1.25-0.41 2.35-1.29 3.23c-0.44 0.44-0.95 0.75-1.6 0.5c-0.09-0.04-0.16-0.06-0.25-0.06c-1.51 0.09-2.07-0.84-2.42-2.1c-0.19-0.66-0.35-1.31-0.28-2c0.03-0.37 0.19-0.66 0.47-0.84c0.79-0.56 1.64-0.87 2.68-0.84z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp47)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m61.03 297.19c1.26-0.06 2.36 0.87 2.64 1.69c0.09 0.28 0.09 0.63 0.03 0.94c-0.25 1.19-0.79 2.22-1.63 3.1c-0.47 0.47-1.26 0.53-1.73 0.12c-0.41-0.37-0.85-0.75-1.03-1.28c-0.25-0.75-0.51-1.5-0.66-2.25c-0.19-0.87 0.38-1.75 1.26-2.03c0.44-0.19 0.91-0.25 1.13-0.28z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp48)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m105.05 240.38c-0.12 0.56-0.15 1.09-0.34 1.57c-0.16 0.37-0.41 0.78-0.72 1.03c-0.54 0.41-1.16 0.72-1.76 1.06c-0.13 0.09-0.35 0.13-0.5 0.09c-0.73-0.22-1.51-0.31-1.98-1.06c-0.37-0.59-0.69-1.19-0.82-1.88c-0.15-0.84 0.16-1.56 0.85-1.97c0.84-0.5 1.76-0.75 2.7-0.82c0.79-0.06 1.54 0.25 2.07 0.84c0.32 0.28 0.38 0.75 0.5 1.13z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp49)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m39.82 302.28c-0.57-0.81-0.82-1.65-0.88-2.53c-0.06-0.81 0.44-1.56 1.22-1.81c1-0.34 2.04-0.34 3.02 0.03c0.97 0.35 1.41 1.25 1.26 2.29c-0.19 1.09-0.76 1.88-1.8 2.35c-0.53 0.25-1.03 0.34-1.6 0.12c-0.38-0.22-0.85-0.34-1.22-0.44z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp50)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m121.14 243.89c-0.03 0-0.28 0-0.54 0c-0.47-0.03-0.79-0.31-1.06-0.63c-0.63-0.72-0.88-1.62-1.1-2.53c-0.06-0.22 0.09-0.5 0.22-0.69c0.5-0.76 1.29-1.03 2.13-1.32c1.2-0.37 2.14 0.16 3.08 0.75c0.15 0.47 0.44 0.94 0.47 1.41c0.04 0.5-0.09 1-0.22 1.5c-0.22 1.06-1.1 1.65-2.26 1.59c-0.15-0.04-0.34-0.06-0.72-0.09z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp51)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m85.98 300.38c-0.09 0.41-0.28 1.03-0.44 1.63c-0.15 0.56-0.6 0.71-1.1 0.75c-0.16 0.03-0.31 0.03-0.47 0.03c-1.95-0.09-2.58-0.41-3.11-2.88c-0.13-0.6 0.12-1.1 0.6-1.47c0.79-0.63 1.72-0.79 2.7-0.79c0.72 0 1.6 0.94 1.73 1.75c0.06 0.25 0.06 0.5 0.09 0.97z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m66.02 256.49c0.53 0.06 1.07 0.12 1.54 0.22c1.06 0.25 1.72 1.25 1.54 2.32c-0.09 0.5-0.25 1-0.53 1.41c-0.95 1.5-2.83 1.75-4.21 0.6c-0.19-0.16-0.31-0.41-0.44-0.63c-0.44-0.69-0.47-1.44-0.5-2.22c-0.03-0.79 0.41-1.35 1.1-1.5c0.5-0.06 1.03-0.13 1.51-0.19z" />
+		<path id="Layer" class="s0" d="m102.6 256.3c0.25 0.09 0.78 0.22 1.22 0.44c0.57 0.28 0.88 0.82 0.91 1.47c0.09 1.62-0.69 2.75-2.04 3.57c-0.15 0.09-0.34 0.19-0.47 0.15c-0.57-0.15-1.13-0.37-1.67-0.59c-0.13-0.06-0.25-0.25-0.35-0.38c-0.41-0.66-0.75-1.35-0.88-2.13c-0.19-1 0.13-1.59 1.07-2.06c0.73-0.35 1.23-0.47 2.2-0.47z" />
+		<path id="Layer" class="s0" d="m41.76 261.93c-0.34-0.03-0.69-0.03-1-0.15c-0.28-0.12-0.66-0.34-0.79-0.6c-0.47-1-0.75-2.1-0.66-3.22c0.04-0.57 0.35-0.94 0.82-1.22c1.29-0.75 2.76-0.41 3.62 0.82c0.09 0.12 0.18 0.28 0.25 0.44c0.22 1 0.31 2-0.31 2.94c-0.44 0.69-1.04 1.06-1.92 1z" />
+		<g id="Clip-Path" clip-path="url(#cp52)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m143.22 240.85c0.04 1.13-0.44 2-1.25 2.72c-0.69 0.6-1.92 0.6-2.61-0.03c-0.79-0.72-1.22-1.66-1.51-2.66c-0.13-0.44 0.03-0.88 0.34-1.19c1.35-1.31 2.83-1.47 4.47-0.47c0.19 0.12 0.31 0.41 0.37 0.63c0.13 0.31 0.16 0.66 0.19 1z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m4.47 275.54c0.32 0.09 0.69 0.09 0.92 0.28c0.47 0.41 0.91 0.88 1.29 1.38c0.12 0.16 0.22 0.44 0.19 0.66c-0.04 0.53-0.06 1.12-0.28 1.62c-0.41 1.03-1.04 1.97-1.76 2.82c-0.41 0.47-0.91 0.59-1.51 0.4c-0.38-0.12-0.76-0.28-1.13-0.37c-0.41-0.12-0.69-0.38-0.91-0.69c-0.28-0.37-0.54-0.78-0.79-1.19c-0.6-0.94-0.6-1.57 0.06-2.37c0.76-0.94 1.67-1.69 2.77-2.22c0.37-0.19 0.79-0.22 1.16-0.31z" />
+		<g id="Clip-Path" clip-path="url(#cp53)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m4.03 297.25c1.26 0 2.26 0.94 2.29 2.25c0.04 1.44-0.6 2.59-1.72 3.47c-0.41 0.31-0.88 0.28-1.38 0.25c-0.66-0.06-1.23-0.28-1.57-0.91c-0.25-0.5-0.57-0.93-0.82-1.44c-0.44-0.91-0.19-1.97 0.6-2.56c0.92-0.75 1.76-1.06 2.61-1.06z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m6.95 258.65c-0.06 0.38-0.09 0.72-0.19 1.03c-0.06 0.25-0.19 0.5-0.35 0.69c-0.79 0.84-1.82 1.37-2.92 1.56c-2.01 0.35-3.52-1.06-3.49-3.12c0-0.35 0.19-0.69 0.47-0.88c1.19-0.71 2.45-1.25 3.8-1.56c0.82-0.19 1.51 0.22 2.17 0.63c0.12 0.09 0.22 0.28 0.25 0.44c0.09 0.41 0.16 0.81 0.25 1.22z" />
+		<g id="Clip-Path" clip-path="url(#cp54)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m6.17 240.85c0.03 1.13-0.44 2-1.26 2.72c-0.69 0.6-1.92 0.6-2.61-0.03c-0.79-0.72-1.22-1.66-1.51-2.66c-0.12-0.44 0.03-0.88 0.35-1.19c1.35-1.31 2.82-1.47 4.46-0.47c0.19 0.12 0.31 0.41 0.38 0.63c0.12 0.31 0.12 0.66 0.19 1z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m20.49 297.78c0.44 0 0.6 0 0.76 0c1-0.04 1.67 0.47 2.17 1.25c0.22 0.35 0.28 0.76 0.22 1.13c-0.19 1.22-0.94 2-2.07 2.41c-0.28 0.09-0.66 0.09-0.91-0.03c-1.54-0.72-2.23-2.04-1.98-3.69c0.06-0.47 0.47-0.91 0.94-0.97c0.35-0.04 0.73-0.06 0.88-0.09z" />
+		<path id="Layer" class="s0" d="m123.78 258.81c-0.04 1.06-0.22 2.03-1.01 2.81c-0.25 0.25-0.6 0.41-0.94 0.31c-0.76-0.15-1.45-0.5-1.88-1.19c-0.47-0.72-0.79-1.5-0.95-2.35c-0.09-0.53 0.09-1 0.47-1.38c0.76-0.72 1.73-0.87 2.61-0.44c0.38 0.19 0.73 0.44 1.1 0.69c0.37 0.25 0.53 0.66 0.56 1.1c0.04 0.09 0.04 0.28 0.04 0.44z" />
+		<path id="Layer" class="s0" d="m85.82 258.87c-0.06 0.28-0.12 0.82-0.31 1.28c-0.31 0.88-0.97 1.38-1.92 1.54c-0.69 0.12-1.44-0.19-1.79-0.75c-0.5-0.82-0.84-1.69-0.84-2.66c0-0.82 0.5-1.47 1.35-1.66c1.19-0.28 2.2 0.06 3.08 0.84c0.34 0.34 0.44 0.75 0.44 1.41z" />
+		<g id="Clip-Path" clip-path="url(#cp55)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m163.56 241.16c-0.06 0.79-0.38 1.47-0.85 2.1c-0.09 0.12-0.25 0.25-0.41 0.31c-0.97 0.47-2.42 0.15-2.98-0.72c-0.31-0.5-0.57-1.06-0.79-1.59c-0.19-0.44 0-1.06 0.38-1.41c0.5-0.47 1.07-0.84 1.76-1c0.91-0.22 1.7 0.04 2.35 0.66c0.47 0.44 0.54 1.03 0.54 1.65z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m158.78 300.25c0.19-0.5 0.38-1.13 0.66-1.66c0.31-0.63 1.48-0.9 2.14-0.56c0.22 0.09 0.41 0.22 0.6 0.38c1.45 1.09 1.35 2.91-0.19 3.94c-0.82 0.53-1.98 0.34-2.55-0.47c-0.19-0.25-0.34-0.53-0.47-0.81c-0.06-0.25-0.09-0.5-0.19-0.82z" />
+		<g id="Clip-Path" clip-path="url(#cp56)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m161.61 260.15c-0.03 0-0.38 0-0.72-0.09c-0.25-0.06-0.5-0.16-0.69-0.31c-0.66-0.57-1.16-1.25-1.54-2.04c-0.38-0.81 0.03-1.78 0.91-2.09c1.16-0.44 2.2-0.16 3.11 0.59c0.25 0.19 0.41 0.53 0.53 0.84c0.22 0.57 0.22 1.16 0.16 1.75c-0.06 1.06-0.5 1.38-1.76 1.34z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m22.94 198.87c0.85 0.09 1.64 0.13 2.42 0.28c0.72 0.16 1.29 0.56 1.63 1.28c0.32 0.69 0.35 1.35 0 2.07c-0.47 0.94-1.16 1.72-1.94 2.37c-0.82 0.69-1.85 0.91-2.92 0.72c-0.6-0.09-2.95-1.81-3.21-2.35c-0.09-0.22-0.19-0.44-0.22-0.66c-0.06-0.57-0.06-1.1-0.09-1.66c-0.03-1.03 0.25-1.41 1.32-1.62c0.97-0.22 2.01-0.31 3.02-0.44z" />
+		<path id="Layer" class="s0" d="m23.04 178.98c0.79 0.15 1.45 0.25 2.1 0.4c0.82 0.19 1.32 0.76 1.7 1.47c0.15 0.31 0.19 0.66 0.09 1c-0.19 0.75-0.6 1.44-1.13 2c-0.41 0.44-0.94 0.71-1.57 0.81c-1.1 0.19-2.23 0.19-3.24 0.72c-0.75 0.41-1.32-0.03-1.88-0.44c-0.12-0.09-0.28-0.25-0.28-0.41c-0.09-0.84-0.31-1.72-0.22-2.53c0.12-1.19 0.88-2.06 2.01-2.47c0.78-0.31 1.66-0.41 2.42-0.56z" />
+		<path id="Layer" class="s0" d="m79.5 202.09c0.09-0.22 0.19-0.44 0.31-0.63c0.09-0.12 0.22-0.22 0.38-0.31c1.35-0.69 2.74-1.35 4.21-1.72c1.03-0.25 1.88 0.09 2.51 0.97c0.44 0.63 0.57 1.31 0.28 2.03c-0.38 1-1.07 1.75-1.95 2.35c-0.19 0.12-0.44 0.19-0.66 0.22c-0.63 0.09-1.26 0.16-1.89 0.19c-0.47 0-0.97-0.03-1.41-0.12c-0.28-0.06-0.6-0.28-0.79-0.5c-0.63-0.75-0.85-1.59-1-2.47z" />
+		<path id="Layer" class="s0" d="m141.53 198.65c0.31 0.09 0.69 0.09 0.91 0.28c0.47 0.41 0.92 0.87 1.29 1.38c0.13 0.15 0.22 0.44 0.19 0.66c-0.03 0.53-0.06 1.13-0.28 1.63c-0.41 1.03-1.03 1.97-1.75 2.81c-0.41 0.47-0.92 0.6-1.51 0.41c-0.38-0.12-0.75-0.28-1.13-0.38c-0.41-0.12-0.69-0.37-0.91-0.69c-0.28-0.38-0.54-0.78-0.79-1.19c-0.6-0.94-0.6-1.57 0.06-2.38c0.76-0.94 1.67-1.69 2.76-2.22c0.38-0.18 0.79-0.22 1.16-0.31z" />
+		<path id="Layer" class="s0" d="m124.94 201.68c-0.22 1.69-1.1 2.94-2.58 3.75c-0.19 0.09-0.47 0.09-0.69 0.04c-0.38-0.12-0.72-0.44-1.1-0.44c-1.13-0.04-1.72-0.69-2.14-1.63c-0.09-0.22-0.22-0.44-0.34-0.63c-0.54-0.81-0.19-1.47 0.34-1.87c1.07-0.84 2.26-1.47 3.59-1.82c0.84-0.22 1.57 0.04 2.17 0.66c0.5 0.53 0.84 1.16 0.76 1.94z" />
+		<g id="Clip-Path" clip-path="url(#cp57)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m84.12 161.08c0.91 0.06 1.7 0.37 2.29 1.03c0.22 0.22 0.38 0.6 0.41 0.94c0.13 1.16-0.12 2.22-0.97 3.1c-0.41 0.44-0.84 0.84-1.35 1.22c-0.25 0.19-0.63 0.34-0.95 0.34c-1.29-0.03-2.36-0.56-2.95-1.75c-0.28-0.63-0.47-1.28-0.63-1.94c-0.19-0.78 0.25-1.56 0.91-1.97c1-0.69 2.14-0.82 3.24-0.97z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m102.97 199.15c0.85 0 1.42 0.22 1.8 0.84c0.12 0.22 0.25 0.41 0.37 0.63c0.19 0.37 0.25 0.75 0.16 1.16c-0.16 0.63-0.38 1.22-0.85 1.69c-0.72 0.75-1.54 1.38-2.51 1.81c-0.19 0.09-0.5 0.12-0.69 0.06c-0.69-0.22-1.35-0.5-1.7-1.22c-0.25-0.5-0.54-0.97-0.79-1.47c-0.19-0.37-0.06-1.09 0.22-1.35c0.94-0.9 2.01-1.56 3.24-2c0.28-0.13 0.6-0.16 0.75-0.16z" />
+		<g id="Clip-Path" clip-path="url(#cp58)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m160.63 205.38c-0.63 0.03-1-0.09-1.29-0.41c-0.47-0.53-0.91-1.09-1.29-1.69c-0.28-0.41-0.31-0.87-0.19-1.38c0.19-0.78 0.54-1.47 1.35-1.84c0.6-0.25 1.13-0.57 1.72-0.82c1.01-0.41 2.11 0 2.68 0.91c0.12 0.18 0.22 0.4 0.34 0.62c0.28 0.44 0.28 0.91 0.09 1.35c-0.34 0.82-0.79 1.54-1.35 2.22c-0.6 0.78-1.35 1.09-2.07 1.03z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m42.18 199.09c2.26-0.09 3.08 1.97 2.45 3.2c-0.69 1.31-1.72 2.28-2.98 3c-0.41 0.25-0.97 0.15-1.35-0.16c-0.69-0.59-1.19-1.28-1.29-2.22c-0.09-0.63-0.22-1.25-0.31-1.88c-0.06-0.44 0.28-0.97 0.69-1.16c1-0.47 2.07-0.72 2.8-0.79z" />
+		<g id="Clip-Path" clip-path="url(#cp59)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m18.61 163.84c-0.06-0.79 0.25-1.32 0.95-1.66c1.16-0.63 2.45-0.78 3.74-0.78c0.82 0 1.48 0.44 2.01 1.03c0.22 0.22 0.31 0.63 0.31 0.94c0.04 1.88-0.94 3.32-2.67 3.98c-0.31 0.12-0.69 0.12-1 0.06c-0.5-0.12-0.95-0.31-1.48-0.34c-1.04-0.06-1.38-0.5-1.67-1.66c-0.12-0.53-0.16-1.06-0.19-1.56z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp60)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m141.09 220.36c1.25 0 2.26 0.94 2.29 2.26c0.03 1.44-0.6 2.59-1.73 3.47c-0.41 0.31-0.88 0.28-1.38 0.25c-0.66-0.06-1.22-0.28-1.57-0.91c-0.25-0.5-0.56-0.94-0.82-1.44c-0.44-0.91-0.19-1.97 0.6-2.57c0.91-0.75 1.76-1.06 2.61-1.06z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m144.01 181.76c-0.06 0.37-0.09 0.72-0.19 1.03c-0.06 0.25-0.19 0.5-0.34 0.69c-0.79 0.84-1.83 1.38-2.92 1.57c-2.01 0.34-3.52-1.06-3.49-3.13c0-0.34 0.19-0.69 0.47-0.87c1.19-0.72 2.45-1.25 3.8-1.57c0.82-0.18 1.51 0.22 2.17 0.63c0.12 0.09 0.22 0.28 0.25 0.44c0.09 0.41 0.15 0.82 0.25 1.22z" />
+		<g id="Clip-Path" clip-path="url(#cp61)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m124.12 222.33c0.04 0.78-0.28 1.53-0.79 2.16c-0.53 0.66-1.16 1.28-1.76 1.91c-0.28 0.31-1.22 0.22-1.54-0.12c-0.76-0.84-1.26-1.81-1.38-2.94c-0.13-0.94 0.22-1.72 1-2.28c0.44-0.31 0.97-0.53 1.48-0.75c0.91-0.38 1.7-0.09 2.39 0.53c0.41 0.37 0.63 0.87 0.6 1.5z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m62.07 202.06c0.03-0.6 0.19-0.94 0.47-1.25c0.76-0.75 1.67-1.22 2.71-1.44c0.38-0.09 0.79-0.03 1.19 0.03c0.41 0.06 0.72 0.31 0.97 0.66c0.6 0.87 0.66 1.78 0.09 2.69c-0.57 0.87-1.32 1.59-2.14 2.22c-0.57 0.41-1.88 0.19-2.42-0.44c-0.25-0.28-0.51-0.66-0.6-1c-0.19-0.53-0.22-1.09-0.28-1.46z" />
+		<g id="Clip-Path" clip-path="url(#cp62)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m64.83 161.33c0.94-0.09 1.6 0.41 2.32 0.91c0.63 0.44 0.85 1.03 0.79 1.78c-0.06 0.97-0.41 1.82-0.91 2.63c-0.41 0.63-1 0.91-1.76 0.75c-0.34-0.06-0.66-0.25-0.97-0.25c-1.1 0.03-1.48-0.72-1.79-1.53c-0.22-0.57-0.34-1.13-0.47-1.72c-0.15-0.75 0.13-1.34 0.69-1.81c0.6-0.47 1.29-0.78 2.11-0.75z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp63)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m102.88 220.61c1.26-0.06 2.26 1.12 2.01 2.4c-0.06 0.38-0.22 0.75-0.38 1.13c-0.16 0.34-0.41 0.69-0.6 1.03c-0.5 0.81-1.07 1.06-2.01 0.87c-0.31-0.06-0.63-0.15-0.91-0.25c-0.47-0.16-0.84-0.44-1.1-0.88c-0.34-0.53-0.66-1.09-0.76-1.72c-0.12-0.78 0.19-1.44 0.85-1.81c0.85-0.56 1.85-0.82 2.89-0.78z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp64)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m41.99 161.43c0.97-0.03 1.76 0.47 2.39 1.19c0.19 0.22 0.28 0.63 0.31 0.94c0.03 1.25-0.41 2.35-1.29 3.22c-0.44 0.44-0.95 0.76-1.6 0.5c-0.09-0.03-0.16-0.06-0.25-0.06c-1.51 0.09-2.07-0.84-2.42-2.1c-0.19-0.66-0.35-1.32-0.28-2c0.03-0.38 0.19-0.66 0.47-0.84c0.79-0.56 1.64-0.87 2.68-0.84z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp65)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m61.03 220.3c1.26-0.06 2.36 0.87 2.64 1.69c0.09 0.28 0.09 0.63 0.03 0.93c-0.25 1.19-0.79 2.22-1.63 3.1c-0.47 0.47-1.26 0.53-1.73 0.12c-0.41-0.38-0.85-0.75-1.03-1.28c-0.25-0.75-0.51-1.5-0.66-2.25c-0.19-0.88 0.38-1.75 1.26-2.04c0.44-0.18 0.91-0.25 1.13-0.28z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp66)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m105.05 163.49c-0.12 0.57-0.15 1.1-0.34 1.57c-0.16 0.38-0.41 0.79-0.72 1.03c-0.54 0.41-1.16 0.72-1.76 1.06c-0.13 0.09-0.35 0.12-0.5 0.09c-0.73-0.22-1.51-0.31-1.98-1.06c-0.37-0.6-0.69-1.19-0.82-1.88c-0.15-0.84 0.16-1.57 0.85-1.97c0.84-0.5 1.76-0.76 2.7-0.82c0.79-0.06 1.54 0.25 2.07 0.84c0.32 0.28 0.38 0.75 0.5 1.12z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp67)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m39.82 225.4c-0.57-0.82-0.82-1.66-0.88-2.53c-0.06-0.82 0.44-1.57 1.22-1.81c1-0.34 2.04-0.34 3.02 0.03c0.97 0.34 1.41 1.25 1.26 2.29c-0.19 1.09-0.76 1.87-1.8 2.35c-0.53 0.25-1.03 0.34-1.6 0.12c-0.38-0.22-0.85-0.34-1.22-0.44z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp68)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m121.14 167c-0.03 0-0.28 0-0.54 0c-0.47-0.04-0.79-0.31-1.06-0.63c-0.63-0.72-0.88-1.63-1.1-2.53c-0.06-0.22 0.09-0.5 0.22-0.69c0.5-0.75 1.29-1.03 2.13-1.31c1.2-0.38 2.14 0.15 3.08 0.75c0.15 0.47 0.44 0.94 0.47 1.41c0.04 0.5-0.09 1-0.22 1.5c-0.22 1.06-1.1 1.66-2.26 1.59c-0.15-0.03-0.34-0.06-0.72-0.09z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp69)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m85.98 223.49c-0.09 0.41-0.28 1.03-0.44 1.62c-0.15 0.56-0.6 0.72-1.1 0.75c-0.16 0.04-0.31 0.04-0.47 0.04c-1.95-0.09-2.58-0.41-3.11-2.88c-0.13-0.59 0.12-1.09 0.6-1.46c0.79-0.63 1.72-0.79 2.7-0.79c0.72 0 1.6 0.94 1.73 1.75c0.06 0.25 0.06 0.5 0.09 0.97z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m66.02 179.6c0.53 0.06 1.07 0.12 1.54 0.22c1.06 0.25 1.72 1.25 1.54 2.31c-0.09 0.5-0.25 1-0.53 1.41c-0.95 1.5-2.83 1.75-4.21 0.59c-0.19-0.15-0.31-0.41-0.44-0.63c-0.44-0.69-0.47-1.44-0.5-2.22c-0.03-0.78 0.41-1.34 1.1-1.5c0.5-0.06 1.03-0.12 1.51-0.18z" />
+		<path id="Layer" class="s0" d="m102.6 179.41c0.25 0.09 0.78 0.22 1.22 0.44c0.57 0.28 0.88 0.82 0.91 1.47c0.09 1.62-0.69 2.75-2.04 3.56c-0.15 0.09-0.34 0.19-0.47 0.16c-0.57-0.16-1.13-0.38-1.67-0.6c-0.13-0.06-0.25-0.25-0.35-0.37c-0.41-0.66-0.75-1.35-0.88-2.13c-0.19-1 0.13-1.59 1.07-2.07c0.73-0.34 1.23-0.47 2.2-0.47z" />
+		<path id="Layer" class="s0" d="m41.76 185.04c-0.34-0.03-0.69-0.03-1-0.16c-0.28-0.12-0.66-0.34-0.79-0.59c-0.47-1-0.75-2.1-0.66-3.23c0.04-0.56 0.35-0.93 0.82-1.22c1.29-0.75 2.76-0.41 3.62 0.82c0.09 0.12 0.18 0.28 0.25 0.44c0.22 1 0.31 2-0.31 2.94c-0.44 0.69-1.04 1.06-1.92 1z" />
+		<g id="Clip-Path" clip-path="url(#cp70)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m143.22 163.96c0.04 1.12-0.44 2-1.25 2.72c-0.69 0.59-1.92 0.59-2.61-0.04c-0.79-0.72-1.22-1.65-1.51-2.66c-0.13-0.44 0.03-0.87 0.34-1.19c1.35-1.31 2.83-1.47 4.47-0.47c0.19 0.12 0.31 0.4 0.37 0.62c0.13 0.31 0.16 0.66 0.19 1z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m4.47 198.65c0.32 0.09 0.69 0.09 0.92 0.28c0.47 0.41 0.91 0.87 1.29 1.38c0.12 0.15 0.22 0.44 0.19 0.66c-0.04 0.53-0.06 1.13-0.28 1.63c-0.41 1.03-1.04 1.97-1.76 2.81c-0.41 0.47-0.91 0.6-1.51 0.41c-0.38-0.12-0.76-0.28-1.13-0.38c-0.41-0.12-0.69-0.37-0.91-0.69c-0.28-0.38-0.54-0.78-0.79-1.19c-0.6-0.94-0.6-1.57 0.06-2.38c0.76-0.94 1.67-1.69 2.77-2.22c0.37-0.18 0.79-0.22 1.16-0.31z" />
+		<g id="Clip-Path" clip-path="url(#cp71)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m4.03 220.36c1.26 0 2.26 0.94 2.29 2.26c0.04 1.44-0.6 2.59-1.72 3.47c-0.41 0.31-0.88 0.28-1.38 0.25c-0.66-0.06-1.23-0.28-1.57-0.91c-0.25-0.5-0.57-0.94-0.82-1.44c-0.44-0.91-0.19-1.97 0.6-2.57c0.92-0.75 1.76-1.06 2.61-1.06z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m6.95 181.76c-0.06 0.37-0.09 0.72-0.19 1.03c-0.06 0.25-0.19 0.5-0.35 0.69c-0.79 0.84-1.82 1.38-2.92 1.57c-2.01 0.34-3.52-1.06-3.49-3.13c0-0.34 0.19-0.69 0.47-0.87c1.19-0.72 2.45-1.25 3.8-1.57c0.82-0.18 1.51 0.22 2.17 0.63c0.12 0.09 0.22 0.28 0.25 0.44c0.09 0.41 0.16 0.82 0.25 1.22z" />
+		<g id="Clip-Path" clip-path="url(#cp72)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m6.17 163.96c0.03 1.12-0.44 2-1.26 2.72c-0.69 0.59-1.92 0.59-2.61-0.04c-0.79-0.72-1.22-1.65-1.51-2.66c-0.12-0.44 0.03-0.87 0.35-1.19c1.35-1.31 2.82-1.47 4.46-0.47c0.19 0.12 0.31 0.4 0.38 0.62c0.12 0.31 0.12 0.66 0.19 1z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp73)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m20.49 220.89c0.44 0 0.6 0 0.76 0c1-0.03 1.67 0.47 2.17 1.25c0.22 0.34 0.28 0.75 0.22 1.13c-0.19 1.22-0.94 2-2.07 2.4c-0.28 0.09-0.66 0.09-0.91-0.03c-1.54-0.72-2.23-2.03-1.98-3.69c0.06-0.47 0.47-0.9 0.94-0.97c0.35-0.03 0.73-0.06 0.88-0.09z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m123.78 181.91c-0.04 1.06-0.22 2.04-1.01 2.82c-0.25 0.25-0.6 0.41-0.94 0.31c-0.76-0.16-1.45-0.5-1.88-1.19c-0.47-0.72-0.79-1.51-0.95-2.35c-0.09-0.53 0.09-1 0.47-1.38c0.76-0.72 1.73-0.88 2.61-0.44c0.38 0.19 0.73 0.44 1.1 0.69c0.37 0.25 0.53 0.66 0.56 1.09c0.04 0.09 0.04 0.28 0.04 0.44z" />
+		<path id="Layer" class="s0" d="m85.82 181.98c-0.06 0.28-0.12 0.82-0.31 1.28c-0.31 0.87-0.97 1.38-1.92 1.54c-0.69 0.12-1.44-0.19-1.79-0.76c-0.5-0.81-0.84-1.69-0.84-2.66c0-0.81 0.5-1.47 1.35-1.65c1.19-0.28 2.2 0.06 3.08 0.84c0.34 0.34 0.44 0.75 0.44 1.41z" />
+		<g id="Clip-Path" clip-path="url(#cp74)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m163.56 164.27c-0.06 0.78-0.38 1.47-0.85 2.1c-0.09 0.12-0.25 0.25-0.41 0.31c-0.97 0.47-2.42 0.15-2.98-0.72c-0.31-0.5-0.57-1.06-0.79-1.59c-0.19-0.44 0-1.06 0.38-1.41c0.5-0.47 1.07-0.84 1.76-1c0.91-0.22 1.7 0.03 2.35 0.66c0.47 0.44 0.54 1.03 0.54 1.66z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp75)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m158.78 223.36c0.19-0.5 0.38-1.13 0.66-1.66c0.31-0.63 1.48-0.91 2.14-0.56c0.22 0.09 0.41 0.22 0.6 0.37c1.45 1.1 1.35 2.91-0.19 3.94c-0.82 0.53-1.98 0.35-2.55-0.47c-0.19-0.25-0.34-0.53-0.47-0.82c-0.06-0.25-0.09-0.5-0.19-0.81z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp76)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m161.61 183.26c-0.03 0-0.38 0-0.72-0.09c-0.25-0.06-0.5-0.15-0.69-0.31c-0.66-0.56-1.16-1.25-1.54-2.03c-0.38-0.82 0.03-1.78 0.91-2.1c1.16-0.44 2.2-0.15 3.11 0.6c0.25 0.19 0.41 0.53 0.53 0.84c0.22 0.56 0.22 1.16 0.16 1.75c-0.06 1.06-0.5 1.38-1.76 1.35z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m198.75 120.25c0.85 0.09 1.64 0.12 2.42 0.28c0.72 0.15 1.29 0.56 1.64 1.28c0.31 0.69 0.34 1.34 0 2.06c-0.47 0.94-1.16 1.72-1.95 2.38c-0.82 0.69-1.85 0.9-2.92 0.71c-0.6-0.09-2.95-1.81-3.21-2.35c-0.09-0.22-0.18-0.44-0.22-0.66c-0.06-0.56-0.06-1.09-0.09-1.66c-0.03-1.03 0.25-1.41 1.32-1.62c0.97-0.22 2.01-0.31 3.01-0.44z" />
+		<path id="Layer" class="s0" d="m198.85 100.36c0.79 0.16 1.45 0.25 2.11 0.41c0.82 0.19 1.32 0.75 1.7 1.47c0.16 0.31 0.19 0.66 0.09 1c-0.19 0.75-0.6 1.44-1.13 2c-0.41 0.44-0.94 0.72-1.57 0.82c-1.1 0.19-2.23 0.19-3.23 0.72c-0.76 0.4-1.32-0.04-1.89-0.44c-0.12-0.09-0.28-0.25-0.28-0.41c-0.09-0.84-0.32-1.72-0.22-2.53c0.13-1.19 0.88-2.07 2.01-2.48c0.79-0.31 1.67-0.4 2.42-0.56z" />
+		<path id="Layer" class="s0" d="m255.31 123.47c0.09-0.22 0.19-0.44 0.31-0.63c0.09-0.12 0.22-0.22 0.38-0.31c1.35-0.69 2.74-1.34 4.21-1.72c1.03-0.25 1.88 0.09 2.51 0.97c0.44 0.63 0.57 1.32 0.28 2.04c-0.38 1-1.07 1.75-1.95 2.35c-0.18 0.12-0.44 0.18-0.66 0.22c-0.63 0.09-1.26 0.15-1.88 0.19c-0.47 0-0.97-0.04-1.42-0.13c-0.28-0.06-0.6-0.28-0.79-0.5c-0.63-0.75-0.84-1.59-1-2.48z" />
+		<path id="Layer" class="s0" d="m317.34 120.04c0.31 0.09 0.69 0.09 0.92 0.28c0.47 0.4 0.91 0.87 1.29 1.37c0.12 0.16 0.22 0.44 0.19 0.66c-0.04 0.53-0.06 1.12-0.28 1.62c-0.41 1.03-1.04 1.97-1.76 2.82c-0.41 0.47-0.91 0.59-1.51 0.4c-0.37-0.12-0.75-0.28-1.13-0.37c-0.41-0.12-0.69-0.38-0.91-0.69c-0.28-0.37-0.54-0.78-0.79-1.19c-0.6-0.94-0.6-1.57 0.06-2.37c0.76-0.94 1.67-1.69 2.76-2.22c0.38-0.19 0.79-0.22 1.16-0.31z" />
+		<path id="Layer" class="s0" d="m300.75 123.07c-0.22 1.69-1.1 2.94-2.58 3.76c-0.19 0.09-0.47 0.09-0.69 0.03c-0.38-0.12-0.73-0.44-1.1-0.44c-1.13-0.03-1.72-0.69-2.13-1.62c-0.09-0.22-0.22-0.44-0.35-0.63c-0.53-0.82-0.19-1.47 0.35-1.88c1.06-0.84 2.26-1.47 3.58-1.81c0.85-0.22 1.57 0.03 2.17 0.66c0.5 0.53 0.85 1.16 0.76 1.94z" />
+		<g id="Clip-Path" clip-path="url(#cp77)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m259.93 82.47c0.91 0.06 1.7 0.38 2.29 1.03c0.22 0.22 0.38 0.6 0.41 0.94c0.13 1.16-0.12 2.22-0.97 3.1c-0.41 0.44-0.85 0.84-1.35 1.22c-0.25 0.18-0.63 0.34-0.95 0.34c-1.29-0.03-2.36-0.57-2.95-1.75c-0.28-0.63-0.47-1.28-0.63-1.94c-0.19-0.78 0.25-1.57 0.91-1.97c1-0.69 2.14-0.81 3.24-0.97z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m278.79 120.54c0.84 0 1.41 0.22 1.79 0.84c0.12 0.22 0.25 0.4 0.38 0.62c0.18 0.38 0.25 0.76 0.15 1.16c-0.15 0.63-0.38 1.22-0.84 1.69c-0.73 0.75-1.54 1.38-2.52 1.81c-0.19 0.09-0.5 0.13-0.69 0.06c-0.69-0.22-1.35-0.5-1.7-1.22c-0.25-0.5-0.54-0.97-0.79-1.47c-0.19-0.38-0.06-1.1 0.22-1.35c0.95-0.91 2.01-1.57 3.24-2c0.28-0.12 0.6-0.15 0.76-0.15z" />
+		<g id="Clip-Path" clip-path="url(#cp78)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m336.44 126.76c-0.63 0.04-1-0.09-1.29-0.41c-0.47-0.53-0.91-1.09-1.29-1.68c-0.28-0.41-0.31-0.88-0.19-1.38c0.19-0.79 0.54-1.47 1.35-1.85c0.6-0.25 1.13-0.56 1.73-0.82c1-0.4 2.1 0 2.67 0.91c0.12 0.19 0.22 0.41 0.34 0.63c0.28 0.44 0.28 0.9 0.09 1.35c-0.34 0.81-0.79 1.53-1.35 2.22c-0.6 0.78-1.35 1.09-2.07 1.03z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m217.99 120.47c2.26-0.09 3.08 1.97 2.45 3.19c-0.69 1.32-1.73 2.29-2.99 3c-0.41 0.25-0.97 0.16-1.35-0.15c-0.69-0.6-1.2-1.28-1.29-2.22c-0.09-0.63-0.22-1.25-0.31-1.88c-0.06-0.44 0.28-0.97 0.69-1.16c1.01-0.47 2.07-0.71 2.8-0.78z" />
+		<g id="Clip-Path" clip-path="url(#cp79)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m194.42 85.22c-0.06-0.78 0.25-1.31 0.95-1.65c1.16-0.63 2.45-0.79 3.74-0.79c0.82 0 1.48 0.44 2.01 1.03c0.22 0.22 0.31 0.63 0.31 0.94c0.04 1.87-0.94 3.31-2.67 3.97c-0.31 0.12-0.69 0.12-1 0.06c-0.5-0.12-0.94-0.31-1.48-0.34c-1.03-0.06-1.38-0.5-1.67-1.66c-0.12-0.53-0.15-1.06-0.19-1.57z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp80)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m316.9 141.74c1.26 0 2.26 0.94 2.29 2.25c0.03 1.44-0.6 2.6-1.72 3.47c-0.41 0.31-0.88 0.28-1.38 0.25c-0.66-0.06-1.23-0.28-1.57-0.9c-0.25-0.5-0.57-0.94-0.82-1.44c-0.44-0.91-0.19-1.97 0.6-2.56c0.92-0.75 1.76-1.06 2.61-1.06z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m319.83 103.14c-0.06 0.38-0.09 0.72-0.19 1.03c-0.06 0.25-0.19 0.5-0.35 0.69c-0.79 0.84-1.82 1.38-2.92 1.56c-2.01 0.35-3.51-1.06-3.49-3.12c0-0.34 0.19-0.69 0.47-0.87c1.19-0.72 2.45-1.25 3.8-1.57c0.82-0.19 1.51 0.22 2.17 0.63c0.13 0.09 0.22 0.28 0.25 0.44c0.09 0.41 0.16 0.82 0.25 1.22z" />
+		<g id="Clip-Path" clip-path="url(#cp81)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m299.93 143.71c0.04 0.79-0.28 1.54-0.79 2.16c-0.53 0.66-1.16 1.28-1.75 1.91c-0.28 0.31-1.23 0.22-1.54-0.12c-0.76-0.84-1.26-1.82-1.38-2.94c-0.12-0.94 0.22-1.72 1-2.29c0.44-0.31 0.97-0.53 1.48-0.75c0.91-0.37 1.7-0.09 2.39 0.53c0.41 0.38 0.63 0.87 0.6 1.5z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m237.88 123.44c0.03-0.6 0.19-0.94 0.47-1.25c0.75-0.75 1.67-1.22 2.7-1.44c0.38-0.09 0.79-0.04 1.19 0.03c0.41 0.06 0.73 0.31 0.97 0.66c0.6 0.87 0.66 1.78 0.09 2.69c-0.57 0.87-1.32 1.59-2.14 2.22c-0.56 0.41-1.88 0.19-2.42-0.44c-0.25-0.28-0.5-0.66-0.6-1c-0.19-0.53-0.22-1.09-0.28-1.47z" />
+		<g id="Clip-Path" clip-path="url(#cp82)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m240.64 82.72c0.95-0.09 1.6 0.4 2.33 0.9c0.63 0.44 0.84 1.03 0.79 1.78c-0.06 0.97-0.41 1.81-0.92 2.63c-0.41 0.63-1 0.9-1.76 0.75c-0.34-0.06-0.66-0.25-0.97-0.25c-1.1 0.04-1.48-0.71-1.8-1.53c-0.22-0.56-0.34-1.13-0.47-1.72c-0.16-0.75 0.12-1.35 0.69-1.81c0.6-0.47 1.29-0.79 2.1-0.75z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp83)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m278.69 141.99c1.25-0.06 2.26 1.13 2.01 2.41c-0.06 0.37-0.22 0.75-0.38 1.13c-0.15 0.34-0.41 0.69-0.6 1.03c-0.5 0.82-1.07 1.06-2.01 0.88c-0.32-0.06-0.63-0.16-0.92-0.25c-0.47-0.15-0.84-0.44-1.1-0.87c-0.34-0.53-0.66-1.09-0.75-1.72c-0.13-0.79 0.19-1.44 0.84-1.81c0.85-0.57 1.85-0.82 2.89-0.79z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp84)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m217.8 82.81c0.97-0.03 1.76 0.47 2.39 1.19c0.19 0.22 0.28 0.63 0.31 0.94c0.04 1.25-0.41 2.35-1.29 3.22c-0.44 0.44-0.94 0.75-1.6 0.5c-0.09-0.04-0.16-0.06-0.25-0.06c-1.51 0.09-2.07-0.84-2.42-2.1c-0.19-0.66-0.35-1.31-0.28-2c0.03-0.37 0.19-0.66 0.47-0.84c0.79-0.56 1.63-0.87 2.67-0.84z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp85)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m236.84 141.68c1.26-0.06 2.36 0.87 2.64 1.69c0.09 0.28 0.09 0.63 0.03 0.94c-0.25 1.19-0.79 2.22-1.63 3.1c-0.47 0.47-1.26 0.53-1.73 0.12c-0.41-0.37-0.84-0.75-1.03-1.28c-0.25-0.75-0.5-1.5-0.66-2.25c-0.19-0.87 0.38-1.75 1.26-2.03c0.44-0.19 0.91-0.25 1.13-0.28z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp86)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m280.86 84.88c-0.13 0.56-0.16 1.09-0.35 1.57c-0.15 0.37-0.41 0.78-0.72 1.03c-0.54 0.41-1.16 0.72-1.76 1.06c-0.12 0.09-0.35 0.13-0.5 0.09c-0.73-0.22-1.51-0.31-1.98-1.06c-0.38-0.59-0.69-1.19-0.82-1.87c-0.15-0.84 0.16-1.57 0.85-1.97c0.85-0.5 1.76-0.75 2.7-0.82c0.79-0.06 1.54 0.25 2.08 0.84c0.31 0.28 0.37 0.75 0.5 1.13z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp87)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m215.63 146.78c-0.57-0.81-0.82-1.65-0.88-2.53c-0.06-0.81 0.44-1.56 1.22-1.81c1.01-0.34 2.04-0.34 3.02 0.04c0.97 0.34 1.41 1.25 1.26 2.28c-0.19 1.09-0.76 1.88-1.79 2.35c-0.54 0.25-1.04 0.35-1.61 0.12c-0.38-0.22-0.84-0.34-1.22-0.44z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp88)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m296.95 88.38c-0.03 0-0.28 0-0.53 0c-0.47-0.03-0.79-0.31-1.07-0.63c-0.63-0.72-0.88-1.62-1.1-2.53c-0.06-0.22 0.09-0.5 0.22-0.69c0.5-0.75 1.29-1.03 2.14-1.32c1.19-0.37 2.13 0.16 3.08 0.75c0.15 0.47 0.44 0.94 0.47 1.41c0.03 0.5-0.09 1-0.22 1.5c-0.22 1.06-1.1 1.65-2.26 1.59c-0.15-0.03-0.34-0.06-0.72-0.09z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp89)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m261.79 144.87c-0.09 0.41-0.28 1.03-0.44 1.63c-0.15 0.56-0.6 0.71-1.1 0.75c-0.15 0.03-0.31 0.03-0.47 0.03c-1.94-0.09-2.58-0.41-3.11-2.88c-0.13-0.6 0.12-1.09 0.6-1.47c0.79-0.63 1.72-0.78 2.7-0.78c0.73 0 1.61 0.93 1.73 1.75c0.06 0.25 0.06 0.5 0.09 0.97z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m241.83 100.99c0.54 0.06 1.07 0.12 1.54 0.22c1.07 0.25 1.72 1.25 1.54 2.32c-0.09 0.5-0.25 1-0.53 1.41c-0.95 1.5-2.83 1.75-4.21 0.6c-0.19-0.16-0.31-0.41-0.44-0.63c-0.44-0.69-0.47-1.44-0.5-2.22c-0.04-0.78 0.41-1.35 1.1-1.5c0.5-0.06 1.03-0.12 1.51-0.19z" />
+		<path id="Layer" class="s0" d="m278.41 100.8c0.25 0.09 0.79 0.22 1.22 0.44c0.57 0.28 0.88 0.82 0.91 1.47c0.09 1.63-0.69 2.75-2.04 3.57c-0.16 0.09-0.35 0.19-0.47 0.15c-0.57-0.15-1.13-0.37-1.67-0.59c-0.12-0.06-0.25-0.25-0.35-0.38c-0.41-0.66-0.75-1.34-0.87-2.13c-0.19-1 0.12-1.59 1.06-2.06c0.73-0.35 1.23-0.47 2.2-0.47z" />
+		<path id="Layer" class="s0" d="m217.58 106.43c-0.35-0.03-0.69-0.03-1.01-0.15c-0.28-0.12-0.66-0.34-0.79-0.6c-0.47-1-0.75-2.09-0.66-3.22c0.03-0.56 0.34-0.94 0.82-1.22c1.29-0.75 2.76-0.4 3.62 0.82c0.09 0.12 0.19 0.28 0.25 0.44c0.22 1 0.31 2-0.31 2.94c-0.44 0.69-1.03 1.06-1.91 1z" />
+		<g id="Clip-Path" clip-path="url(#cp90)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m319.04 85.34c0.03 1.13-0.44 2-1.26 2.72c-0.69 0.6-1.92 0.6-2.61-0.03c-0.79-0.72-1.22-1.66-1.51-2.66c-0.12-0.44 0.03-0.88 0.34-1.19c1.35-1.31 2.83-1.46 4.47-0.47c0.19 0.12 0.31 0.41 0.38 0.63c0.12 0.31 0.15 0.66 0.19 1z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp91)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m180.28 120.04c0.31 0.09 0.69 0.09 0.91 0.28c0.47 0.4 0.91 0.87 1.29 1.37c0.12 0.16 0.22 0.44 0.19 0.66c-0.03 0.53-0.06 1.12-0.28 1.62c-0.41 1.03-1.04 1.97-1.76 2.82c-0.41 0.47-0.91 0.59-1.51 0.4c-0.38-0.12-0.76-0.28-1.13-0.37c-0.41-0.12-0.69-0.38-0.91-0.69c-0.28-0.37-0.53-0.78-0.79-1.19c-0.6-0.94-0.6-1.57 0.06-2.37c0.75-0.94 1.67-1.69 2.76-2.22c0.38-0.19 0.79-0.22 1.16-0.31z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp92)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m179.84 141.74c1.26 0 2.26 0.94 2.29 2.25c0.04 1.44-0.6 2.6-1.72 3.47c-0.41 0.31-0.88 0.28-1.38 0.25c-0.66-0.06-1.23-0.28-1.57-0.9c-0.25-0.5-0.57-0.94-0.82-1.44c-0.44-0.91-0.19-1.97 0.6-2.56c0.91-0.75 1.76-1.06 2.61-1.06z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp93)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m182.76 103.14c-0.06 0.38-0.09 0.72-0.19 1.03c-0.06 0.25-0.19 0.5-0.35 0.69c-0.79 0.84-1.82 1.38-2.92 1.56c-2.01 0.35-3.52-1.06-3.49-3.12c0-0.34 0.19-0.69 0.47-0.87c1.19-0.72 2.45-1.25 3.8-1.57c0.82-0.19 1.51 0.22 2.17 0.63c0.12 0.09 0.22 0.28 0.25 0.44c0.09 0.41 0.16 0.82 0.25 1.22z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp94)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m181.98 85.34c0.03 1.13-0.44 2-1.26 2.72c-0.69 0.6-1.91 0.6-2.61-0.03c-0.79-0.72-1.23-1.66-1.51-2.66c-0.12-0.44 0.04-0.88 0.35-1.19c1.35-1.31 2.82-1.46 4.46-0.47c0.19 0.12 0.31 0.41 0.38 0.63c0.12 0.31 0.12 0.66 0.19 1z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp95)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m196.3 142.28c0.44 0 0.6 0 0.76 0c1-0.03 1.67 0.47 2.17 1.25c0.22 0.34 0.28 0.75 0.22 1.12c-0.19 1.22-0.94 2-2.07 2.41c-0.28 0.09-0.66 0.09-0.91-0.03c-1.54-0.72-2.23-2.04-1.98-3.69c0.06-0.47 0.47-0.91 0.95-0.97c0.34-0.04 0.72-0.06 0.87-0.09z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m299.59 103.3c-0.03 1.06-0.22 2.03-1 2.81c-0.25 0.25-0.6 0.41-0.95 0.31c-0.76-0.15-1.45-0.5-1.88-1.19c-0.47-0.72-0.79-1.5-0.95-2.35c-0.09-0.53 0.09-1 0.47-1.38c0.76-0.72 1.73-0.87 2.61-0.44c0.38 0.19 0.72 0.44 1.1 0.69c0.38 0.25 0.53 0.66 0.57 1.1c0.03 0.09 0.03 0.28 0.03 0.44z" />
+		<path id="Layer" class="s0" d="m261.63 103.36c-0.06 0.28-0.12 0.82-0.31 1.29c-0.31 0.87-0.97 1.38-1.91 1.53c-0.69 0.12-1.45-0.19-1.8-0.75c-0.5-0.82-0.84-1.69-0.84-2.66c0-0.82 0.5-1.47 1.35-1.66c1.2-0.28 2.2 0.06 3.08 0.84c0.34 0.34 0.44 0.75 0.44 1.41z" />
+		<g id="Clip-Path" clip-path="url(#cp96)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m339.37 85.66c-0.06 0.79-0.38 1.47-0.85 2.1c-0.09 0.12-0.25 0.25-0.41 0.31c-0.97 0.47-2.42 0.16-2.98-0.72c-0.31-0.5-0.57-1.06-0.79-1.59c-0.19-0.44 0-1.06 0.38-1.41c0.5-0.47 1.07-0.84 1.76-1c0.91-0.22 1.7 0.04 2.36 0.66c0.47 0.44 0.53 1.03 0.53 1.65z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp97)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m334.59 144.75c0.19-0.5 0.37-1.13 0.66-1.66c0.31-0.62 1.48-0.9 2.14-0.56c0.22 0.09 0.41 0.22 0.6 0.38c1.45 1.09 1.35 2.91-0.19 3.94c-0.82 0.53-1.98 0.34-2.55-0.47c-0.19-0.25-0.34-0.53-0.47-0.81c-0.06-0.25-0.09-0.5-0.19-0.82z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp98)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m337.42 104.65c-0.03 0-0.38 0-0.72-0.09c-0.25-0.06-0.5-0.16-0.69-0.31c-0.66-0.57-1.16-1.25-1.54-2.03c-0.38-0.82 0.04-1.78 0.92-2.1c1.16-0.44 2.2-0.16 3.11 0.59c0.25 0.19 0.41 0.53 0.54 0.84c0.22 0.57 0.22 1.16 0.15 1.75c-0.06 1.06-0.5 1.38-1.76 1.35z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m198.75 42.85c0.85 0.09 1.64 0.12 2.42 0.28c0.72 0.15 1.29 0.56 1.64 1.28c0.31 0.69 0.34 1.35 0 2.06c-0.47 0.94-1.16 1.72-1.95 2.38c-0.82 0.69-1.85 0.9-2.92 0.72c-0.6-0.09-2.95-1.81-3.21-2.35c-0.09-0.22-0.18-0.44-0.22-0.66c-0.06-0.56-0.06-1.09-0.09-1.65c-0.03-1.03 0.25-1.41 1.32-1.63c0.97-0.22 2.01-0.31 3.01-0.44z" />
+		<path id="Layer" class="s0" d="m198.85 22.95c0.79 0.16 1.45 0.25 2.11 0.41c0.82 0.19 1.32 0.75 1.7 1.47c0.16 0.31 0.19 0.66 0.09 1c-0.19 0.75-0.6 1.44-1.13 2c-0.41 0.44-0.94 0.72-1.57 0.82c-1.1 0.19-2.23 0.19-3.23 0.72c-0.76 0.41-1.32-0.03-1.89-0.44c-0.12-0.09-0.28-0.25-0.28-0.41c-0.09-0.84-0.32-1.72-0.22-2.53c0.13-1.19 0.88-2.06 2.01-2.47c0.79-0.31 1.67-0.41 2.42-0.57z" />
+		<path id="Layer" class="s0" d="m255.31 46.07c0.09-0.22 0.19-0.44 0.31-0.63c0.09-0.12 0.22-0.22 0.38-0.31c1.35-0.69 2.74-1.35 4.21-1.72c1.03-0.25 1.88 0.09 2.51 0.97c0.44 0.63 0.57 1.31 0.28 2.03c-0.38 1-1.07 1.75-1.95 2.35c-0.18 0.12-0.44 0.19-0.66 0.22c-0.63 0.09-1.26 0.16-1.88 0.19c-0.47 0-0.97-0.03-1.42-0.12c-0.28-0.06-0.6-0.28-0.79-0.5c-0.63-0.75-0.84-1.59-1-2.47z" />
+		<path id="Layer" class="s0" d="m317.34 42.63c0.31 0.09 0.69 0.09 0.92 0.28c0.47 0.41 0.91 0.87 1.29 1.38c0.12 0.15 0.22 0.44 0.19 0.66c-0.04 0.53-0.06 1.13-0.28 1.62c-0.41 1.03-1.04 1.97-1.76 2.82c-0.41 0.47-0.91 0.6-1.51 0.41c-0.37-0.12-0.75-0.28-1.13-0.38c-0.41-0.12-0.69-0.37-0.91-0.69c-0.28-0.38-0.54-0.79-0.79-1.19c-0.6-0.94-0.6-1.57 0.06-2.38c0.76-0.94 1.67-1.69 2.76-2.22c0.38-0.19 0.79-0.22 1.16-0.31z" />
+		<path id="Layer" class="s0" d="m300.75 45.66c-0.22 1.69-1.1 2.94-2.58 3.75c-0.19 0.09-0.47 0.09-0.69 0.04c-0.38-0.13-0.73-0.44-1.1-0.44c-1.13-0.03-1.72-0.69-2.13-1.62c-0.09-0.22-0.22-0.44-0.35-0.63c-0.53-0.82-0.19-1.47 0.35-1.88c1.06-0.84 2.26-1.46 3.58-1.81c0.85-0.22 1.57 0.04 2.17 0.66c0.5 0.54 0.85 1.16 0.76 1.94z" />
+		<g id="Clip-Path" clip-path="url(#cp99)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m259.93 5.06c0.91 0.06 1.7 0.37 2.29 1.03c0.22 0.22 0.38 0.6 0.41 0.94c0.13 1.16-0.12 2.22-0.97 3.1c-0.41 0.44-0.85 0.84-1.35 1.22c-0.25 0.19-0.63 0.34-0.95 0.34c-1.29-0.03-2.36-0.56-2.95-1.75c-0.28-0.63-0.47-1.29-0.63-1.94c-0.19-0.78 0.25-1.56 0.91-1.97c1-0.69 2.14-0.82 3.24-0.97z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m278.79 43.13c0.84 0 1.41 0.22 1.79 0.84c0.12 0.22 0.25 0.41 0.38 0.63c0.18 0.37 0.25 0.75 0.15 1.16c-0.15 0.63-0.38 1.22-0.84 1.69c-0.73 0.75-1.54 1.38-2.52 1.81c-0.19 0.09-0.5 0.12-0.69 0.06c-0.69-0.22-1.35-0.5-1.7-1.22c-0.25-0.5-0.54-0.97-0.79-1.47c-0.19-0.38-0.06-1.09 0.22-1.35c0.95-0.9 2.01-1.57 3.24-2c0.28-0.12 0.6-0.15 0.76-0.15z" />
+		<g id="Clip-Path" clip-path="url(#cp100)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m336.44 49.36c-0.63 0.03-1-0.09-1.29-0.41c-0.47-0.53-0.91-1.1-1.29-1.69c-0.28-0.41-0.31-0.87-0.19-1.38c0.19-0.79 0.54-1.47 1.35-1.85c0.6-0.25 1.13-0.56 1.73-0.81c1-0.41 2.1 0 2.67 0.9c0.12 0.19 0.22 0.41 0.34 0.63c0.28 0.44 0.28 0.91 0.09 1.35c-0.34 0.82-0.79 1.53-1.35 2.22c-0.6 0.78-1.35 1.09-2.07 1.03z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m217.99 43.07c2.26-0.09 3.08 1.97 2.45 3.19c-0.69 1.32-1.73 2.29-2.99 3.01c-0.41 0.25-0.97 0.15-1.35-0.16c-0.69-0.59-1.2-1.28-1.29-2.22c-0.09-0.63-0.22-1.25-0.31-1.87c-0.06-0.44 0.28-0.97 0.69-1.16c1.01-0.47 2.07-0.72 2.8-0.79z" />
+		<g id="Clip-Path" clip-path="url(#cp101)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m194.42 7.81c-0.06-0.78 0.25-1.31 0.95-1.65c1.16-0.63 2.45-0.79 3.74-0.79c0.82 0 1.48 0.44 2.01 1.03c0.22 0.22 0.31 0.63 0.31 0.94c0.04 1.88-0.94 3.31-2.67 3.98c-0.31 0.12-0.69 0.12-1 0.06c-0.5-0.12-0.94-0.31-1.48-0.34c-1.03-0.06-1.38-0.5-1.67-1.66c-0.12-0.53-0.15-1.06-0.19-1.57z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp102)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m316.9 64.34c1.26 0 2.26 0.94 2.29 2.25c0.03 1.44-0.6 2.6-1.72 3.47c-0.41 0.31-0.88 0.28-1.38 0.25c-0.66-0.06-1.23-0.28-1.57-0.9c-0.25-0.5-0.57-0.94-0.82-1.44c-0.44-0.9-0.19-1.97 0.6-2.56c0.92-0.75 1.76-1.06 2.61-1.06z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m319.83 25.74c-0.06 0.37-0.09 0.71-0.19 1.03c-0.06 0.25-0.19 0.5-0.35 0.69c-0.79 0.84-1.82 1.38-2.92 1.57c-2.01 0.34-3.51-1.06-3.49-3.13c0-0.34 0.19-0.69 0.47-0.87c1.19-0.72 2.45-1.25 3.8-1.57c0.82-0.19 1.51 0.22 2.17 0.63c0.13 0.09 0.22 0.28 0.25 0.44c0.09 0.41 0.16 0.82 0.25 1.22z" />
+		<g id="Clip-Path" clip-path="url(#cp103)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m299.93 66.31c0.04 0.78-0.28 1.53-0.79 2.16c-0.53 0.66-1.16 1.28-1.75 1.91c-0.28 0.31-1.23 0.22-1.54-0.12c-0.76-0.84-1.26-1.81-1.38-2.94c-0.12-0.94 0.22-1.72 1-2.28c0.44-0.31 0.97-0.53 1.48-0.75c0.91-0.38 1.7-0.09 2.39 0.53c0.41 0.37 0.63 0.87 0.6 1.5z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m237.88 46.04c0.03-0.59 0.19-0.94 0.47-1.25c0.75-0.76 1.67-1.22 2.7-1.44c0.38-0.09 0.79-0.03 1.19 0.03c0.41 0.06 0.73 0.31 0.97 0.66c0.6 0.88 0.66 1.78 0.09 2.69c-0.57 0.87-1.32 1.59-2.14 2.22c-0.56 0.41-1.88 0.19-2.42-0.44c-0.25-0.28-0.5-0.66-0.6-1c-0.19-0.53-0.22-1.09-0.28-1.47z" />
+		<g id="Clip-Path" clip-path="url(#cp104)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m240.64 5.31c0.95-0.09 1.6 0.41 2.33 0.9c0.63 0.44 0.84 1.03 0.79 1.78c-0.06 0.97-0.41 1.81-0.92 2.63c-0.41 0.63-1 0.91-1.76 0.75c-0.34-0.06-0.66-0.25-0.97-0.25c-1.1 0.03-1.48-0.72-1.8-1.54c-0.22-0.56-0.34-1.12-0.47-1.72c-0.16-0.75 0.12-1.35 0.69-1.81c0.6-0.47 1.29-0.78 2.1-0.75z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp105)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m278.69 64.59c1.25-0.06 2.26 1.13 2.01 2.41c-0.06 0.38-0.22 0.75-0.38 1.13c-0.15 0.34-0.41 0.69-0.6 1.03c-0.5 0.81-1.07 1.06-2.01 0.87c-0.32-0.06-0.63-0.16-0.92-0.25c-0.47-0.15-0.84-0.44-1.1-0.87c-0.34-0.53-0.66-1.09-0.75-1.72c-0.13-0.78 0.19-1.44 0.84-1.81c0.85-0.56 1.85-0.82 2.89-0.79z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp106)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m217.8 5.41c0.97-0.04 1.76 0.47 2.39 1.19c0.19 0.22 0.28 0.63 0.31 0.94c0.04 1.25-0.41 2.35-1.29 3.22c-0.44 0.44-0.94 0.75-1.6 0.5c-0.09-0.03-0.16-0.06-0.25-0.06c-1.51 0.09-2.07-0.84-2.42-2.09c-0.19-0.66-0.35-1.32-0.28-2c0.03-0.38 0.19-0.66 0.47-0.84c0.79-0.57 1.63-0.88 2.67-0.84z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp107)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m236.84 64.28c1.26-0.06 2.36 0.87 2.64 1.68c0.09 0.28 0.09 0.63 0.03 0.94c-0.25 1.19-0.79 2.22-1.63 3.1c-0.47 0.47-1.26 0.53-1.73 0.12c-0.41-0.38-0.84-0.75-1.03-1.28c-0.25-0.75-0.5-1.51-0.66-2.26c-0.19-0.87 0.38-1.75 1.26-2.03c0.44-0.19 0.91-0.25 1.13-0.28z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp108)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m280.86 7.47c-0.13 0.57-0.16 1.1-0.35 1.57c-0.15 0.38-0.41 0.78-0.72 1.03c-0.54 0.41-1.16 0.72-1.76 1.06c-0.12 0.09-0.35 0.12-0.5 0.09c-0.73-0.22-1.51-0.31-1.98-1.06c-0.38-0.6-0.69-1.19-0.82-1.88c-0.15-0.84 0.16-1.57 0.85-1.97c0.85-0.5 1.76-0.75 2.7-0.81c0.79-0.06 1.54 0.25 2.08 0.84c0.31 0.28 0.37 0.75 0.5 1.12z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp109)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m215.63 69.38c-0.57-0.82-0.82-1.66-0.88-2.53c-0.06-0.82 0.44-1.57 1.22-1.81c1.01-0.35 2.04-0.35 3.02 0.03c0.97 0.34 1.41 1.25 1.26 2.28c-0.19 1.1-0.76 1.88-1.79 2.35c-0.54 0.25-1.04 0.34-1.61 0.12c-0.38-0.22-0.84-0.34-1.22-0.44z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp110)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m296.95 10.97c-0.03 0-0.28 0-0.53 0c-0.47-0.03-0.79-0.31-1.07-0.63c-0.63-0.71-0.88-1.62-1.1-2.53c-0.06-0.22 0.09-0.5 0.22-0.69c0.5-0.75 1.29-1.03 2.14-1.31c1.19-0.38 2.13 0.15 3.08 0.75c0.15 0.47 0.44 0.94 0.47 1.41c0.03 0.5-0.09 1-0.22 1.5c-0.22 1.06-1.1 1.66-2.26 1.59c-0.15-0.03-0.34-0.06-0.72-0.09z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp111)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m261.79 67.47c-0.09 0.4-0.28 1.03-0.44 1.62c-0.15 0.56-0.6 0.72-1.1 0.75c-0.15 0.03-0.31 0.03-0.47 0.03c-1.94-0.09-2.58-0.4-3.11-2.88c-0.13-0.59 0.12-1.09 0.6-1.47c0.79-0.63 1.72-0.78 2.7-0.78c0.73 0 1.61 0.94 1.73 1.75c0.06 0.25 0.06 0.5 0.09 0.97z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m241.83 23.58c0.54 0.06 1.07 0.13 1.54 0.22c1.07 0.25 1.72 1.25 1.54 2.32c-0.09 0.5-0.25 1-0.53 1.41c-0.95 1.5-2.83 1.75-4.21 0.59c-0.19-0.15-0.31-0.41-0.44-0.63c-0.44-0.69-0.47-1.44-0.5-2.22c-0.04-0.78 0.41-1.34 1.1-1.5c0.5-0.06 1.03-0.12 1.51-0.19z" />
+		<path id="Layer" class="s0" d="m278.41 23.39c0.25 0.09 0.79 0.22 1.22 0.44c0.57 0.28 0.88 0.81 0.91 1.47c0.09 1.62-0.69 2.75-2.04 3.56c-0.16 0.09-0.35 0.19-0.47 0.16c-0.57-0.16-1.13-0.38-1.67-0.6c-0.12-0.06-0.25-0.25-0.35-0.37c-0.41-0.66-0.75-1.35-0.87-2.13c-0.19-1 0.12-1.59 1.06-2.06c0.73-0.34 1.23-0.47 2.2-0.47z" />
+		<path id="Layer" class="s0" d="m217.58 29.02c-0.35-0.04-0.69-0.04-1.01-0.16c-0.28-0.12-0.66-0.34-0.79-0.59c-0.47-1-0.75-2.1-0.66-3.23c0.03-0.56 0.34-0.94 0.82-1.22c1.29-0.75 2.76-0.41 3.62 0.81c0.09 0.13 0.19 0.28 0.25 0.44c0.22 1 0.31 2-0.31 2.94c-0.44 0.69-1.03 1.06-1.91 1z" />
+		<g id="Clip-Path" clip-path="url(#cp112)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m319.04 7.94c0.03 1.12-0.44 2-1.26 2.72c-0.69 0.6-1.92 0.6-2.61-0.03c-0.79-0.72-1.22-1.66-1.51-2.66c-0.12-0.44 0.03-0.87 0.34-1.19c1.35-1.32 2.83-1.47 4.47-0.47c0.19 0.13 0.31 0.41 0.38 0.63c0.12 0.31 0.15 0.66 0.19 1z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp113)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m180.28 42.63c0.31 0.09 0.69 0.09 0.91 0.28c0.47 0.41 0.91 0.87 1.29 1.38c0.12 0.15 0.22 0.44 0.19 0.66c-0.03 0.53-0.06 1.13-0.28 1.62c-0.41 1.03-1.04 1.97-1.76 2.82c-0.41 0.47-0.91 0.6-1.51 0.41c-0.38-0.12-0.76-0.28-1.13-0.38c-0.41-0.12-0.69-0.37-0.91-0.69c-0.28-0.38-0.53-0.79-0.79-1.19c-0.6-0.94-0.6-1.57 0.06-2.38c0.75-0.94 1.67-1.69 2.76-2.22c0.38-0.19 0.79-0.22 1.16-0.31z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp114)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m179.84 64.34c1.26 0 2.26 0.94 2.29 2.25c0.04 1.44-0.6 2.6-1.72 3.47c-0.41 0.31-0.88 0.28-1.38 0.25c-0.66-0.06-1.23-0.28-1.57-0.9c-0.25-0.5-0.57-0.94-0.82-1.44c-0.44-0.9-0.19-1.97 0.6-2.56c0.91-0.75 1.76-1.06 2.61-1.06z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp115)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m182.76 25.74c-0.06 0.37-0.09 0.71-0.19 1.03c-0.06 0.25-0.19 0.5-0.35 0.69c-0.79 0.84-1.82 1.38-2.92 1.57c-2.01 0.34-3.52-1.06-3.49-3.13c0-0.34 0.19-0.69 0.47-0.87c1.19-0.72 2.45-1.25 3.8-1.57c0.82-0.19 1.51 0.22 2.17 0.63c0.12 0.09 0.22 0.28 0.25 0.44c0.09 0.41 0.16 0.82 0.25 1.22z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp116)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m181.98 7.94c0.03 1.12-0.44 2-1.26 2.72c-0.69 0.6-1.91 0.6-2.61-0.03c-0.79-0.72-1.23-1.66-1.51-2.66c-0.12-0.44 0.04-0.87 0.35-1.19c1.35-1.32 2.82-1.47 4.46-0.47c0.19 0.13 0.31 0.41 0.38 0.63c0.12 0.31 0.12 0.66 0.19 1z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m196.3 64.87c0.44 0 0.6 0 0.76 0c1-0.03 1.67 0.47 2.17 1.25c0.22 0.34 0.28 0.75 0.22 1.13c-0.19 1.22-0.94 2-2.07 2.4c-0.28 0.09-0.66 0.09-0.91-0.03c-1.54-0.72-2.23-2.03-1.98-3.69c0.06-0.47 0.47-0.9 0.95-0.97c0.34-0.03 0.72-0.06 0.87-0.09z" />
+		<path id="Layer" class="s0" d="m299.59 25.89c-0.03 1.06-0.22 2.03-1 2.82c-0.25 0.25-0.6 0.41-0.95 0.31c-0.76-0.16-1.45-0.5-1.88-1.19c-0.47-0.71-0.79-1.5-0.95-2.35c-0.09-0.53 0.09-1 0.47-1.38c0.76-0.71 1.73-0.87 2.61-0.44c0.38 0.19 0.72 0.44 1.1 0.69c0.38 0.25 0.53 0.66 0.57 1.09c0.03 0.09 0.03 0.28 0.03 0.44z" />
+		<path id="Layer" class="s0" d="m261.63 25.96c-0.06 0.28-0.12 0.81-0.31 1.28c-0.31 0.87-0.97 1.38-1.91 1.53c-0.69 0.13-1.45-0.18-1.8-0.75c-0.5-0.81-0.84-1.69-0.84-2.66c0-0.82 0.5-1.47 1.35-1.65c1.2-0.28 2.2 0.06 3.08 0.84c0.34 0.35 0.44 0.76 0.44 1.41z" />
+		<g id="Clip-Path" clip-path="url(#cp117)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m339.37 8.25c-0.06 0.78-0.38 1.47-0.85 2.09c-0.09 0.13-0.25 0.25-0.41 0.31c-0.97 0.47-2.42 0.16-2.98-0.71c-0.31-0.5-0.57-1.06-0.79-1.59c-0.19-0.44 0-1.07 0.38-1.41c0.5-0.47 1.07-0.84 1.76-1c0.91-0.22 1.7 0.03 2.36 0.66c0.47 0.44 0.53 1.03 0.53 1.66z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp118)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m334.59 67.34c0.19-0.5 0.37-1.12 0.66-1.65c0.31-0.63 1.48-0.91 2.14-0.57c0.22 0.09 0.41 0.22 0.6 0.38c1.45 1.09 1.35 2.91-0.19 3.94c-0.82 0.53-1.98 0.34-2.55-0.47c-0.19-0.25-0.34-0.53-0.47-0.82c-0.06-0.25-0.09-0.5-0.19-0.82z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp119)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m337.42 27.24c-0.03 0-0.38 0-0.72-0.09c-0.25-0.06-0.5-0.15-0.69-0.31c-0.66-0.56-1.16-1.25-1.54-2.03c-0.38-0.82 0.04-1.78 0.92-2.1c1.16-0.44 2.2-0.15 3.11 0.6c0.25 0.18 0.41 0.53 0.54 0.84c0.22 0.56 0.22 1.16 0.15 1.75c-0.06 1.06-0.5 1.38-1.76 1.35z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m198.75 275.76c0.85 0.09 1.64 0.12 2.42 0.28c0.72 0.16 1.29 0.57 1.64 1.29c0.31 0.69 0.34 1.34 0 2.06c-0.47 0.94-1.16 1.72-1.95 2.37c-0.82 0.69-1.85 0.91-2.92 0.72c-0.6-0.09-2.95-1.81-3.21-2.35c-0.09-0.22-0.18-0.44-0.22-0.66c-0.06-0.56-0.06-1.09-0.09-1.66c-0.03-1.03 0.25-1.41 1.32-1.62c0.97-0.22 2.01-0.31 3.01-0.44z" />
+		<path id="Layer" class="s0" d="m198.85 255.87c0.79 0.15 1.45 0.25 2.11 0.41c0.82 0.19 1.32 0.75 1.7 1.47c0.16 0.31 0.19 0.66 0.09 1c-0.19 0.75-0.6 1.44-1.13 2c-0.41 0.44-0.94 0.72-1.57 0.82c-1.1 0.18-2.23 0.18-3.23 0.72c-0.76 0.4-1.32-0.04-1.89-0.44c-0.12-0.09-0.28-0.25-0.28-0.4c-0.09-0.84-0.32-1.72-0.22-2.53c0.13-1.19 0.88-2.07 2.01-2.48c0.79-0.31 1.67-0.41 2.42-0.56z" />
+		<path id="Layer" class="s0" d="m255.31 278.98c0.09-0.22 0.19-0.44 0.31-0.63c0.09-0.12 0.22-0.22 0.38-0.31c1.35-0.69 2.74-1.34 4.21-1.72c1.03-0.25 1.88 0.09 2.51 0.97c0.44 0.63 0.57 1.32 0.28 2.03c-0.38 1-1.07 1.75-1.95 2.35c-0.18 0.12-0.44 0.18-0.66 0.22c-0.63 0.09-1.26 0.15-1.88 0.18c-0.47 0-0.97-0.03-1.42-0.12c-0.28-0.06-0.6-0.28-0.79-0.5c-0.63-0.76-0.84-1.6-1-2.48z" />
+		<path id="Layer" class="s0" d="m317.34 275.54c0.31 0.09 0.69 0.09 0.92 0.28c0.47 0.41 0.91 0.88 1.29 1.38c0.12 0.16 0.22 0.44 0.19 0.66c-0.04 0.53-0.06 1.12-0.28 1.62c-0.41 1.03-1.04 1.97-1.76 2.82c-0.41 0.47-0.91 0.59-1.51 0.4c-0.37-0.12-0.75-0.28-1.13-0.37c-0.41-0.12-0.69-0.38-0.91-0.69c-0.28-0.37-0.54-0.78-0.79-1.19c-0.6-0.94-0.6-1.57 0.06-2.37c0.76-0.94 1.67-1.69 2.76-2.22c0.38-0.19 0.79-0.22 1.16-0.31z" />
+		<path id="Layer" class="s0" d="m300.75 278.57c-0.22 1.69-1.1 2.94-2.58 3.76c-0.19 0.09-0.47 0.09-0.69 0.03c-0.38-0.12-0.73-0.44-1.1-0.44c-1.13-0.03-1.72-0.69-2.13-1.62c-0.09-0.22-0.22-0.44-0.35-0.63c-0.53-0.82-0.19-1.47 0.35-1.88c1.06-0.84 2.26-1.47 3.58-1.81c0.85-0.22 1.57 0.03 2.17 0.66c0.5 0.53 0.85 1.16 0.76 1.94z" />
+		<g id="Clip-Path" clip-path="url(#cp120)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m259.93 237.97c0.91 0.06 1.7 0.38 2.29 1.03c0.22 0.22 0.38 0.59 0.41 0.94c0.13 1.16-0.12 2.22-0.97 3.1c-0.41 0.44-0.85 0.84-1.35 1.22c-0.25 0.19-0.63 0.35-0.95 0.35c-1.29-0.04-2.36-0.57-2.95-1.75c-0.28-0.63-0.47-1.28-0.63-1.94c-0.19-0.79 0.25-1.57 0.91-1.97c1-0.69 2.14-0.81 3.24-0.97z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m278.79 276.04c0.84 0 1.41 0.22 1.79 0.84c0.12 0.22 0.25 0.41 0.38 0.63c0.18 0.38 0.25 0.75 0.15 1.16c-0.15 0.63-0.38 1.22-0.84 1.69c-0.73 0.75-1.54 1.38-2.52 1.81c-0.19 0.09-0.5 0.13-0.69 0.06c-0.69-0.22-1.35-0.5-1.7-1.22c-0.25-0.5-0.54-0.97-0.79-1.46c-0.19-0.38-0.06-1.1 0.22-1.35c0.95-0.91 2.01-1.57 3.24-2c0.28-0.12 0.6-0.16 0.76-0.16z" />
+		<g id="Clip-Path" clip-path="url(#cp121)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m336.44 282.26c-0.63 0.04-1-0.09-1.29-0.41c-0.47-0.53-0.91-1.09-1.29-1.69c-0.28-0.4-0.31-0.87-0.19-1.38c0.19-0.78 0.54-1.46 1.35-1.84c0.6-0.25 1.13-0.56 1.73-0.82c1-0.41 2.1 0 2.67 0.91c0.12 0.19 0.22 0.41 0.34 0.63c0.28 0.44 0.28 0.9 0.09 1.34c-0.34 0.82-0.79 1.54-1.35 2.22c-0.6 0.79-1.35 1.1-2.07 1.03z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m217.99 275.98c2.26-0.09 3.08 1.97 2.45 3.19c-0.69 1.31-1.73 2.29-2.99 3c-0.41 0.25-0.97 0.16-1.35-0.15c-0.69-0.6-1.2-1.28-1.29-2.22c-0.09-0.63-0.22-1.25-0.31-1.88c-0.06-0.44 0.28-0.97 0.69-1.16c1.01-0.47 2.07-0.72 2.8-0.78z" />
+		<g id="Clip-Path" clip-path="url(#cp122)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m194.42 240.73c-0.06-0.78 0.25-1.31 0.95-1.66c1.16-0.62 2.45-0.78 3.74-0.78c0.82 0 1.48 0.44 2.01 1.03c0.22 0.22 0.31 0.63 0.31 0.94c0.04 1.87-0.94 3.31-2.67 3.97c-0.31 0.12-0.69 0.12-1 0.06c-0.5-0.12-0.94-0.31-1.48-0.35c-1.03-0.06-1.38-0.5-1.67-1.65c-0.12-0.53-0.15-1.06-0.19-1.57z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp123)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m316.9 297.25c1.26 0 2.26 0.94 2.29 2.25c0.03 1.44-0.6 2.59-1.72 3.47c-0.41 0.31-0.88 0.28-1.38 0.25c-0.66-0.06-1.23-0.28-1.57-0.91c-0.25-0.5-0.57-0.93-0.82-1.44c-0.44-0.91-0.19-1.97 0.6-2.56c0.92-0.75 1.76-1.06 2.61-1.06z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m319.83 258.65c-0.06 0.38-0.09 0.72-0.19 1.03c-0.06 0.25-0.19 0.5-0.35 0.69c-0.79 0.84-1.82 1.37-2.92 1.56c-2.01 0.35-3.51-1.06-3.49-3.12c0-0.35 0.19-0.69 0.47-0.88c1.19-0.71 2.45-1.25 3.8-1.56c0.82-0.19 1.51 0.22 2.17 0.63c0.13 0.09 0.22 0.28 0.25 0.44c0.09 0.41 0.16 0.81 0.25 1.22z" />
+		<g id="Clip-Path" clip-path="url(#cp124)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m299.93 299.22c0.04 0.79-0.28 1.54-0.79 2.16c-0.53 0.66-1.16 1.28-1.75 1.91c-0.28 0.31-1.23 0.22-1.54-0.13c-0.76-0.84-1.26-1.81-1.38-2.94c-0.12-0.94 0.22-1.72 1-2.29c0.44-0.31 0.97-0.53 1.48-0.75c0.91-0.37 1.7-0.09 2.39 0.53c0.41 0.38 0.63 0.87 0.6 1.5z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m237.88 278.95c0.03-0.6 0.19-0.94 0.47-1.25c0.75-0.75 1.67-1.22 2.7-1.44c0.38-0.09 0.79-0.04 1.19 0.03c0.41 0.06 0.73 0.31 0.97 0.66c0.6 0.87 0.66 1.78 0.09 2.69c-0.57 0.88-1.32 1.59-2.14 2.22c-0.56 0.41-1.88 0.19-2.42-0.44c-0.25-0.28-0.5-0.66-0.6-1c-0.19-0.53-0.22-1.1-0.28-1.47z" />
+		<g id="Clip-Path" clip-path="url(#cp125)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m240.64 238.22c0.95-0.09 1.6 0.41 2.33 0.91c0.63 0.44 0.84 1.03 0.79 1.78c-0.06 0.97-0.41 1.81-0.92 2.63c-0.41 0.63-1 0.9-1.76 0.75c-0.34-0.06-0.66-0.25-0.97-0.25c-1.1 0.04-1.48-0.71-1.8-1.53c-0.22-0.56-0.34-1.13-0.47-1.72c-0.16-0.75 0.12-1.35 0.69-1.81c0.6-0.47 1.29-0.79 2.1-0.76z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp126)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m278.69 297.5c1.25-0.06 2.26 1.13 2.01 2.41c-0.06 0.37-0.22 0.75-0.38 1.12c-0.15 0.35-0.41 0.69-0.6 1.03c-0.5 0.82-1.07 1.06-2.01 0.87c-0.32-0.06-0.63-0.15-0.92-0.25c-0.47-0.15-0.84-0.44-1.1-0.87c-0.34-0.53-0.66-1.1-0.75-1.72c-0.13-0.79 0.19-1.44 0.84-1.82c0.85-0.56 1.85-0.81 2.89-0.78z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp127)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m217.8 238.32c0.97-0.03 1.76 0.47 2.39 1.19c0.19 0.22 0.28 0.62 0.31 0.93c0.04 1.25-0.41 2.35-1.29 3.23c-0.44 0.44-0.94 0.75-1.6 0.5c-0.09-0.04-0.16-0.06-0.25-0.06c-1.51 0.09-2.07-0.84-2.42-2.1c-0.19-0.66-0.35-1.31-0.28-2c0.03-0.37 0.19-0.66 0.47-0.84c0.79-0.56 1.63-0.87 2.67-0.84z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp128)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m236.84 297.19c1.26-0.06 2.36 0.87 2.64 1.69c0.09 0.28 0.09 0.63 0.03 0.94c-0.25 1.19-0.79 2.22-1.63 3.1c-0.47 0.47-1.26 0.53-1.73 0.12c-0.41-0.37-0.84-0.75-1.03-1.28c-0.25-0.75-0.5-1.5-0.66-2.25c-0.19-0.87 0.38-1.75 1.26-2.03c0.44-0.19 0.91-0.25 1.13-0.28z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp129)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m280.86 240.38c-0.13 0.56-0.16 1.09-0.35 1.57c-0.15 0.37-0.41 0.78-0.72 1.03c-0.54 0.41-1.16 0.72-1.76 1.06c-0.12 0.09-0.35 0.13-0.5 0.09c-0.73-0.22-1.51-0.31-1.98-1.06c-0.38-0.59-0.69-1.19-0.82-1.88c-0.15-0.84 0.16-1.56 0.85-1.97c0.85-0.5 1.76-0.75 2.7-0.82c0.79-0.06 1.54 0.25 2.08 0.84c0.31 0.28 0.37 0.75 0.5 1.13z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp130)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m215.63 302.28c-0.57-0.81-0.82-1.65-0.88-2.53c-0.06-0.81 0.44-1.56 1.22-1.81c1.01-0.34 2.04-0.34 3.02 0.03c0.97 0.35 1.41 1.25 1.26 2.29c-0.19 1.09-0.76 1.88-1.79 2.35c-0.54 0.25-1.04 0.34-1.61 0.12c-0.38-0.22-0.84-0.34-1.22-0.44z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp131)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m296.95 243.89c-0.03 0-0.28 0-0.53 0c-0.47-0.03-0.79-0.31-1.07-0.63c-0.63-0.72-0.88-1.62-1.1-2.53c-0.06-0.22 0.09-0.5 0.22-0.69c0.5-0.76 1.29-1.03 2.14-1.32c1.19-0.37 2.13 0.16 3.08 0.75c0.15 0.47 0.44 0.94 0.47 1.41c0.03 0.5-0.09 1-0.22 1.5c-0.22 1.06-1.1 1.65-2.26 1.59c-0.15-0.04-0.34-0.06-0.72-0.09z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp132)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m261.79 300.38c-0.09 0.41-0.28 1.03-0.44 1.63c-0.15 0.56-0.6 0.71-1.1 0.75c-0.15 0.03-0.31 0.03-0.47 0.03c-1.94-0.09-2.58-0.41-3.11-2.88c-0.13-0.6 0.12-1.1 0.6-1.47c0.79-0.63 1.72-0.79 2.7-0.79c0.73 0 1.61 0.94 1.73 1.75c0.06 0.25 0.06 0.5 0.09 0.97z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m241.83 256.49c0.54 0.06 1.07 0.12 1.54 0.22c1.07 0.25 1.72 1.25 1.54 2.32c-0.09 0.5-0.25 1-0.53 1.41c-0.95 1.5-2.83 1.75-4.21 0.6c-0.19-0.16-0.31-0.41-0.44-0.63c-0.44-0.69-0.47-1.44-0.5-2.22c-0.04-0.79 0.41-1.35 1.1-1.5c0.5-0.06 1.03-0.13 1.51-0.19z" />
+		<path id="Layer" class="s0" d="m278.41 256.3c0.25 0.09 0.79 0.22 1.22 0.44c0.57 0.28 0.88 0.82 0.91 1.47c0.09 1.62-0.69 2.75-2.04 3.57c-0.16 0.09-0.35 0.19-0.47 0.15c-0.57-0.15-1.13-0.37-1.67-0.59c-0.12-0.06-0.25-0.25-0.35-0.38c-0.41-0.66-0.75-1.35-0.87-2.13c-0.19-1 0.12-1.59 1.06-2.06c0.73-0.35 1.23-0.47 2.2-0.47z" />
+		<path id="Layer" class="s0" d="m217.58 261.93c-0.35-0.03-0.69-0.03-1.01-0.15c-0.28-0.12-0.66-0.34-0.79-0.6c-0.47-1-0.75-2.1-0.66-3.22c0.03-0.57 0.34-0.94 0.82-1.22c1.29-0.75 2.76-0.41 3.62 0.82c0.09 0.12 0.19 0.28 0.25 0.44c0.22 1 0.31 2-0.31 2.94c-0.44 0.69-1.03 1.06-1.91 1z" />
+		<g id="Clip-Path" clip-path="url(#cp133)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m319.04 240.85c0.03 1.13-0.44 2-1.26 2.72c-0.69 0.6-1.92 0.6-2.61-0.03c-0.79-0.72-1.22-1.66-1.51-2.66c-0.12-0.44 0.03-0.88 0.34-1.19c1.35-1.31 2.83-1.47 4.47-0.47c0.19 0.12 0.31 0.41 0.38 0.63c0.12 0.31 0.15 0.66 0.19 1z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp134)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m180.28 275.54c0.31 0.09 0.69 0.09 0.91 0.28c0.47 0.41 0.91 0.88 1.29 1.38c0.12 0.16 0.22 0.44 0.19 0.66c-0.03 0.53-0.06 1.12-0.28 1.62c-0.41 1.03-1.04 1.97-1.76 2.82c-0.41 0.47-0.91 0.59-1.51 0.4c-0.38-0.12-0.76-0.28-1.13-0.37c-0.41-0.12-0.69-0.38-0.91-0.69c-0.28-0.37-0.53-0.78-0.79-1.19c-0.6-0.94-0.6-1.57 0.06-2.37c0.75-0.94 1.67-1.69 2.76-2.22c0.38-0.19 0.79-0.22 1.16-0.31z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp135)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m179.84 297.25c1.26 0 2.26 0.94 2.29 2.25c0.04 1.44-0.6 2.59-1.72 3.47c-0.41 0.31-0.88 0.28-1.38 0.25c-0.66-0.06-1.23-0.28-1.57-0.91c-0.25-0.5-0.57-0.93-0.82-1.44c-0.44-0.91-0.19-1.97 0.6-2.56c0.91-0.75 1.76-1.06 2.61-1.06z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp136)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m182.76 258.65c-0.06 0.38-0.09 0.72-0.19 1.03c-0.06 0.25-0.19 0.5-0.35 0.69c-0.79 0.84-1.82 1.37-2.92 1.56c-2.01 0.35-3.52-1.06-3.49-3.12c0-0.35 0.19-0.69 0.47-0.88c1.19-0.71 2.45-1.25 3.8-1.56c0.82-0.19 1.51 0.22 2.17 0.63c0.12 0.09 0.22 0.28 0.25 0.44c0.09 0.41 0.16 0.81 0.25 1.22z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp137)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m181.98 240.85c0.03 1.13-0.44 2-1.26 2.72c-0.69 0.6-1.91 0.6-2.61-0.03c-0.79-0.72-1.23-1.66-1.51-2.66c-0.12-0.44 0.04-0.88 0.35-1.19c1.35-1.31 2.82-1.47 4.46-0.47c0.19 0.12 0.31 0.41 0.38 0.63c0.12 0.31 0.12 0.66 0.19 1z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m196.3 297.78c0.44 0 0.6 0 0.76 0c1-0.04 1.67 0.47 2.17 1.25c0.22 0.35 0.28 0.76 0.22 1.13c-0.19 1.22-0.94 2-2.07 2.41c-0.28 0.09-0.66 0.09-0.91-0.03c-1.54-0.72-2.23-2.04-1.98-3.69c0.06-0.47 0.47-0.91 0.95-0.97c0.34-0.04 0.72-0.06 0.87-0.09z" />
+		<path id="Layer" class="s0" d="m299.59 258.81c-0.03 1.06-0.22 2.03-1 2.81c-0.25 0.25-0.6 0.41-0.95 0.31c-0.76-0.15-1.45-0.5-1.88-1.19c-0.47-0.72-0.79-1.5-0.95-2.35c-0.09-0.53 0.09-1 0.47-1.38c0.76-0.72 1.73-0.87 2.61-0.44c0.38 0.19 0.72 0.44 1.1 0.69c0.38 0.25 0.53 0.66 0.57 1.1c0.03 0.09 0.03 0.28 0.03 0.44z" />
+		<path id="Layer" class="s0" d="m261.63 258.87c-0.06 0.28-0.12 0.82-0.31 1.28c-0.31 0.88-0.97 1.38-1.91 1.54c-0.69 0.12-1.45-0.19-1.8-0.75c-0.5-0.82-0.84-1.69-0.84-2.66c0-0.82 0.5-1.47 1.35-1.66c1.2-0.28 2.2 0.06 3.08 0.84c0.34 0.34 0.44 0.75 0.44 1.41z" />
+		<g id="Clip-Path" clip-path="url(#cp138)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m339.37 241.16c-0.06 0.79-0.38 1.47-0.85 2.1c-0.09 0.12-0.25 0.25-0.41 0.31c-0.97 0.47-2.42 0.15-2.98-0.72c-0.31-0.5-0.57-1.06-0.79-1.59c-0.19-0.44 0-1.06 0.38-1.41c0.5-0.47 1.07-0.84 1.76-1c0.91-0.22 1.7 0.04 2.36 0.66c0.47 0.44 0.53 1.03 0.53 1.65z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp139)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m334.59 300.25c0.19-0.5 0.37-1.13 0.66-1.66c0.31-0.63 1.48-0.9 2.14-0.56c0.22 0.09 0.41 0.22 0.6 0.38c1.45 1.09 1.35 2.91-0.19 3.94c-0.82 0.53-1.98 0.34-2.55-0.47c-0.19-0.25-0.34-0.53-0.47-0.81c-0.06-0.25-0.09-0.5-0.19-0.82z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp140)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m337.42 260.15c-0.03 0-0.38 0-0.72-0.09c-0.25-0.06-0.5-0.16-0.69-0.31c-0.66-0.57-1.16-1.25-1.54-2.04c-0.38-0.81 0.04-1.78 0.92-2.09c1.16-0.44 2.2-0.16 3.11 0.59c0.25 0.19 0.41 0.53 0.54 0.84c0.22 0.57 0.22 1.16 0.15 1.75c-0.06 1.06-0.5 1.38-1.76 1.34z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m198.75 198.87c0.85 0.09 1.64 0.13 2.42 0.28c0.72 0.16 1.29 0.56 1.64 1.28c0.31 0.69 0.34 1.35 0 2.07c-0.47 0.94-1.16 1.72-1.95 2.37c-0.82 0.69-1.85 0.91-2.92 0.72c-0.6-0.09-2.95-1.81-3.21-2.35c-0.09-0.22-0.18-0.44-0.22-0.66c-0.06-0.57-0.06-1.1-0.09-1.66c-0.03-1.03 0.25-1.41 1.32-1.62c0.97-0.22 2.01-0.31 3.01-0.44z" />
+		<path id="Layer" class="s0" d="m198.85 178.98c0.79 0.15 1.45 0.25 2.11 0.4c0.82 0.19 1.32 0.76 1.7 1.47c0.16 0.31 0.19 0.66 0.09 1c-0.19 0.75-0.6 1.44-1.13 2c-0.41 0.44-0.94 0.71-1.57 0.81c-1.1 0.19-2.23 0.19-3.23 0.72c-0.76 0.41-1.32-0.03-1.89-0.44c-0.12-0.09-0.28-0.25-0.28-0.41c-0.09-0.84-0.32-1.72-0.22-2.53c0.13-1.19 0.88-2.06 2.01-2.47c0.79-0.31 1.67-0.41 2.42-0.56z" />
+		<path id="Layer" class="s0" d="m255.31 202.09c0.09-0.22 0.19-0.44 0.31-0.63c0.09-0.12 0.22-0.22 0.38-0.31c1.35-0.69 2.74-1.35 4.21-1.72c1.03-0.25 1.88 0.09 2.51 0.97c0.44 0.63 0.57 1.31 0.28 2.03c-0.38 1-1.07 1.75-1.95 2.35c-0.18 0.12-0.44 0.19-0.66 0.22c-0.63 0.09-1.26 0.16-1.88 0.19c-0.47 0-0.97-0.03-1.42-0.12c-0.28-0.06-0.6-0.28-0.79-0.5c-0.63-0.75-0.84-1.59-1-2.47z" />
+		<path id="Layer" class="s0" d="m317.34 198.65c0.31 0.09 0.69 0.09 0.92 0.28c0.47 0.41 0.91 0.87 1.29 1.38c0.12 0.15 0.22 0.44 0.19 0.66c-0.04 0.53-0.06 1.13-0.28 1.63c-0.41 1.03-1.04 1.97-1.76 2.81c-0.41 0.47-0.91 0.6-1.51 0.41c-0.37-0.12-0.75-0.28-1.13-0.38c-0.41-0.12-0.69-0.37-0.91-0.69c-0.28-0.38-0.54-0.78-0.79-1.19c-0.6-0.94-0.6-1.57 0.06-2.38c0.76-0.94 1.67-1.69 2.76-2.22c0.38-0.18 0.79-0.22 1.16-0.31z" />
+		<path id="Layer" class="s0" d="m300.75 201.68c-0.22 1.69-1.1 2.94-2.58 3.75c-0.19 0.09-0.47 0.09-0.69 0.04c-0.38-0.12-0.73-0.44-1.1-0.44c-1.13-0.04-1.72-0.69-2.13-1.63c-0.09-0.22-0.22-0.44-0.35-0.63c-0.53-0.81-0.19-1.47 0.35-1.87c1.06-0.84 2.26-1.47 3.58-1.82c0.85-0.22 1.57 0.04 2.17 0.66c0.5 0.53 0.85 1.16 0.76 1.94z" />
+		<g id="Clip-Path" clip-path="url(#cp141)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m259.93 161.08c0.91 0.06 1.7 0.37 2.29 1.03c0.22 0.22 0.38 0.6 0.41 0.94c0.13 1.16-0.12 2.22-0.97 3.1c-0.41 0.44-0.85 0.84-1.35 1.22c-0.25 0.19-0.63 0.34-0.95 0.34c-1.29-0.03-2.36-0.56-2.95-1.75c-0.28-0.63-0.47-1.28-0.63-1.94c-0.19-0.78 0.25-1.56 0.91-1.97c1-0.69 2.14-0.82 3.24-0.97z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m278.79 199.15c0.84 0 1.41 0.22 1.79 0.84c0.12 0.22 0.25 0.41 0.38 0.63c0.18 0.37 0.25 0.75 0.15 1.16c-0.15 0.63-0.38 1.22-0.84 1.69c-0.73 0.75-1.54 1.38-2.52 1.81c-0.19 0.09-0.5 0.12-0.69 0.06c-0.69-0.22-1.35-0.5-1.7-1.22c-0.25-0.5-0.54-0.97-0.79-1.47c-0.19-0.37-0.06-1.09 0.22-1.35c0.95-0.9 2.01-1.56 3.24-2c0.28-0.13 0.6-0.16 0.76-0.16z" />
+		<g id="Clip-Path" clip-path="url(#cp142)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m336.44 205.38c-0.63 0.03-1-0.09-1.29-0.41c-0.47-0.53-0.91-1.09-1.29-1.69c-0.28-0.41-0.31-0.87-0.19-1.38c0.19-0.78 0.54-1.47 1.35-1.84c0.6-0.25 1.13-0.57 1.73-0.82c1-0.41 2.1 0 2.67 0.91c0.12 0.18 0.22 0.4 0.34 0.62c0.28 0.44 0.28 0.91 0.09 1.35c-0.34 0.82-0.79 1.54-1.35 2.22c-0.6 0.78-1.35 1.09-2.07 1.03z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m217.99 199.09c2.26-0.09 3.08 1.97 2.45 3.2c-0.69 1.31-1.73 2.28-2.99 3c-0.41 0.25-0.97 0.15-1.35-0.16c-0.69-0.59-1.2-1.28-1.29-2.22c-0.09-0.63-0.22-1.25-0.31-1.88c-0.06-0.44 0.28-0.97 0.69-1.16c1.01-0.47 2.07-0.72 2.8-0.79z" />
+		<g id="Clip-Path" clip-path="url(#cp143)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m194.42 163.84c-0.06-0.79 0.25-1.32 0.95-1.66c1.16-0.63 2.45-0.78 3.74-0.78c0.82 0 1.48 0.44 2.01 1.03c0.22 0.22 0.31 0.63 0.31 0.94c0.04 1.88-0.94 3.32-2.67 3.98c-0.31 0.12-0.69 0.12-1 0.06c-0.5-0.12-0.94-0.31-1.48-0.34c-1.03-0.06-1.38-0.5-1.67-1.66c-0.12-0.53-0.15-1.06-0.19-1.56z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp144)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m316.9 220.36c1.26 0 2.26 0.94 2.29 2.26c0.03 1.44-0.6 2.59-1.72 3.47c-0.41 0.31-0.88 0.28-1.38 0.25c-0.66-0.06-1.23-0.28-1.57-0.91c-0.25-0.5-0.57-0.94-0.82-1.44c-0.44-0.91-0.19-1.97 0.6-2.57c0.92-0.75 1.76-1.06 2.61-1.06z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m319.83 181.76c-0.06 0.37-0.09 0.72-0.19 1.03c-0.06 0.25-0.19 0.5-0.35 0.69c-0.79 0.84-1.82 1.38-2.92 1.57c-2.01 0.34-3.51-1.06-3.49-3.13c0-0.34 0.19-0.69 0.47-0.87c1.19-0.72 2.45-1.25 3.8-1.57c0.82-0.18 1.51 0.22 2.17 0.63c0.13 0.09 0.22 0.28 0.25 0.44c0.09 0.41 0.16 0.82 0.25 1.22z" />
+		<g id="Clip-Path" clip-path="url(#cp145)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m299.93 222.33c0.04 0.78-0.28 1.53-0.79 2.16c-0.53 0.66-1.16 1.28-1.75 1.91c-0.28 0.31-1.23 0.22-1.54-0.12c-0.76-0.84-1.26-1.81-1.38-2.94c-0.12-0.94 0.22-1.72 1-2.28c0.44-0.31 0.97-0.53 1.48-0.75c0.91-0.38 1.7-0.09 2.39 0.53c0.41 0.37 0.63 0.87 0.6 1.5z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m237.88 202.06c0.03-0.6 0.19-0.94 0.47-1.25c0.75-0.75 1.67-1.22 2.7-1.44c0.38-0.09 0.79-0.03 1.19 0.03c0.41 0.06 0.73 0.31 0.97 0.66c0.6 0.87 0.66 1.78 0.09 2.69c-0.57 0.87-1.32 1.59-2.14 2.22c-0.56 0.41-1.88 0.19-2.42-0.44c-0.25-0.28-0.5-0.66-0.6-1c-0.19-0.53-0.22-1.09-0.28-1.46z" />
+		<g id="Clip-Path" clip-path="url(#cp146)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m240.64 161.33c0.95-0.09 1.6 0.41 2.33 0.91c0.63 0.44 0.84 1.03 0.79 1.78c-0.06 0.97-0.41 1.82-0.92 2.63c-0.41 0.63-1 0.91-1.76 0.75c-0.34-0.06-0.66-0.25-0.97-0.25c-1.1 0.03-1.48-0.72-1.8-1.53c-0.22-0.57-0.34-1.13-0.47-1.72c-0.16-0.75 0.12-1.34 0.69-1.81c0.6-0.47 1.29-0.78 2.1-0.75z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp147)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m278.69 220.61c1.25-0.06 2.26 1.12 2.01 2.4c-0.06 0.38-0.22 0.75-0.38 1.13c-0.15 0.34-0.41 0.69-0.6 1.03c-0.5 0.81-1.07 1.06-2.01 0.87c-0.32-0.06-0.63-0.15-0.92-0.25c-0.47-0.16-0.84-0.44-1.1-0.88c-0.34-0.53-0.66-1.09-0.75-1.72c-0.13-0.78 0.19-1.44 0.84-1.81c0.85-0.56 1.85-0.82 2.89-0.78z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp148)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m217.8 161.43c0.97-0.03 1.76 0.47 2.39 1.19c0.19 0.22 0.28 0.63 0.31 0.94c0.04 1.25-0.41 2.35-1.29 3.22c-0.44 0.44-0.94 0.76-1.6 0.5c-0.09-0.03-0.16-0.06-0.25-0.06c-1.51 0.09-2.07-0.84-2.42-2.1c-0.19-0.66-0.35-1.32-0.28-2c0.03-0.38 0.19-0.66 0.47-0.84c0.79-0.56 1.63-0.87 2.67-0.84z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp149)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m236.84 220.3c1.26-0.06 2.36 0.87 2.64 1.69c0.09 0.28 0.09 0.63 0.03 0.93c-0.25 1.19-0.79 2.22-1.63 3.1c-0.47 0.47-1.26 0.53-1.73 0.12c-0.41-0.38-0.84-0.75-1.03-1.28c-0.25-0.75-0.5-1.5-0.66-2.25c-0.19-0.88 0.38-1.75 1.26-2.04c0.44-0.18 0.91-0.25 1.13-0.28z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp150)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m280.86 163.49c-0.13 0.57-0.16 1.1-0.35 1.57c-0.15 0.38-0.41 0.79-0.72 1.03c-0.54 0.41-1.16 0.72-1.76 1.06c-0.12 0.09-0.35 0.12-0.5 0.09c-0.73-0.22-1.51-0.31-1.98-1.06c-0.38-0.6-0.69-1.19-0.82-1.88c-0.15-0.84 0.16-1.57 0.85-1.97c0.85-0.5 1.76-0.76 2.7-0.82c0.79-0.06 1.54 0.25 2.08 0.84c0.31 0.28 0.37 0.75 0.5 1.12z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp151)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m215.63 225.4c-0.57-0.82-0.82-1.66-0.88-2.53c-0.06-0.82 0.44-1.57 1.22-1.81c1.01-0.34 2.04-0.34 3.02 0.03c0.97 0.34 1.41 1.25 1.26 2.29c-0.19 1.09-0.76 1.87-1.79 2.35c-0.54 0.25-1.04 0.34-1.61 0.12c-0.38-0.22-0.84-0.34-1.22-0.44z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp152)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m296.95 167c-0.03 0-0.28 0-0.53 0c-0.47-0.04-0.79-0.31-1.07-0.63c-0.63-0.72-0.88-1.63-1.1-2.53c-0.06-0.22 0.09-0.5 0.22-0.69c0.5-0.75 1.29-1.03 2.14-1.31c1.19-0.38 2.13 0.15 3.08 0.75c0.15 0.47 0.44 0.94 0.47 1.41c0.03 0.5-0.09 1-0.22 1.5c-0.22 1.06-1.1 1.66-2.26 1.59c-0.15-0.03-0.34-0.06-0.72-0.09z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp153)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m261.79 223.49c-0.09 0.41-0.28 1.03-0.44 1.62c-0.15 0.56-0.6 0.72-1.1 0.75c-0.15 0.04-0.31 0.04-0.47 0.04c-1.94-0.09-2.58-0.41-3.11-2.88c-0.13-0.59 0.12-1.09 0.6-1.46c0.79-0.63 1.72-0.79 2.7-0.79c0.73 0 1.61 0.94 1.73 1.75c0.06 0.25 0.06 0.5 0.09 0.97z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m241.83 179.6c0.54 0.06 1.07 0.12 1.54 0.22c1.07 0.25 1.72 1.25 1.54 2.31c-0.09 0.5-0.25 1-0.53 1.41c-0.95 1.5-2.83 1.75-4.21 0.59c-0.19-0.15-0.31-0.41-0.44-0.63c-0.44-0.69-0.47-1.44-0.5-2.22c-0.04-0.78 0.41-1.34 1.1-1.5c0.5-0.06 1.03-0.12 1.51-0.18z" />
+		<path id="Layer" class="s0" d="m278.41 179.41c0.25 0.09 0.79 0.22 1.22 0.44c0.57 0.28 0.88 0.82 0.91 1.47c0.09 1.62-0.69 2.75-2.04 3.56c-0.16 0.09-0.35 0.19-0.47 0.16c-0.57-0.16-1.13-0.38-1.67-0.6c-0.12-0.06-0.25-0.25-0.35-0.37c-0.41-0.66-0.75-1.35-0.87-2.13c-0.19-1 0.12-1.59 1.06-2.07c0.73-0.34 1.23-0.47 2.2-0.47z" />
+		<path id="Layer" class="s0" d="m217.58 185.04c-0.35-0.03-0.69-0.03-1.01-0.16c-0.28-0.12-0.66-0.34-0.79-0.59c-0.47-1-0.75-2.1-0.66-3.23c0.03-0.56 0.34-0.93 0.82-1.22c1.29-0.75 2.76-0.41 3.62 0.82c0.09 0.12 0.19 0.28 0.25 0.44c0.22 1 0.31 2-0.31 2.94c-0.44 0.69-1.03 1.06-1.91 1z" />
+		<g id="Clip-Path" clip-path="url(#cp154)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m319.04 163.96c0.03 1.12-0.44 2-1.26 2.72c-0.69 0.59-1.92 0.59-2.61-0.04c-0.79-0.72-1.22-1.65-1.51-2.66c-0.12-0.44 0.03-0.87 0.34-1.19c1.35-1.31 2.83-1.47 4.47-0.47c0.19 0.12 0.31 0.4 0.38 0.62c0.12 0.31 0.15 0.66 0.19 1z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp155)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m180.28 198.65c0.31 0.09 0.69 0.09 0.91 0.28c0.47 0.41 0.91 0.87 1.29 1.38c0.12 0.15 0.22 0.44 0.19 0.66c-0.03 0.53-0.06 1.13-0.28 1.63c-0.41 1.03-1.04 1.97-1.76 2.81c-0.41 0.47-0.91 0.6-1.51 0.41c-0.38-0.12-0.76-0.28-1.13-0.38c-0.41-0.12-0.69-0.37-0.91-0.69c-0.28-0.38-0.53-0.78-0.79-1.19c-0.6-0.94-0.6-1.57 0.06-2.38c0.75-0.94 1.67-1.69 2.76-2.22c0.38-0.18 0.79-0.22 1.16-0.31z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp156)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m179.84 220.36c1.26 0 2.26 0.94 2.29 2.26c0.04 1.44-0.6 2.59-1.72 3.47c-0.41 0.31-0.88 0.28-1.38 0.25c-0.66-0.06-1.23-0.28-1.57-0.91c-0.25-0.5-0.57-0.94-0.82-1.44c-0.44-0.91-0.19-1.97 0.6-2.57c0.91-0.75 1.76-1.06 2.61-1.06z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp157)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m182.76 181.76c-0.06 0.37-0.09 0.72-0.19 1.03c-0.06 0.25-0.19 0.5-0.35 0.69c-0.79 0.84-1.82 1.38-2.92 1.57c-2.01 0.34-3.52-1.06-3.49-3.13c0-0.34 0.19-0.69 0.47-0.87c1.19-0.72 2.45-1.25 3.8-1.57c0.82-0.18 1.51 0.22 2.17 0.63c0.12 0.09 0.22 0.28 0.25 0.44c0.09 0.41 0.16 0.82 0.25 1.22z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp158)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m181.98 163.96c0.03 1.12-0.44 2-1.26 2.72c-0.69 0.59-1.91 0.59-2.61-0.04c-0.79-0.72-1.23-1.65-1.51-2.66c-0.12-0.44 0.04-0.87 0.35-1.19c1.35-1.31 2.82-1.47 4.46-0.47c0.19 0.12 0.31 0.4 0.38 0.62c0.12 0.31 0.12 0.66 0.19 1z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp159)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m196.3 220.89c0.44 0 0.6 0 0.76 0c1-0.03 1.67 0.47 2.17 1.25c0.22 0.34 0.28 0.75 0.22 1.13c-0.19 1.22-0.94 2-2.07 2.4c-0.28 0.09-0.66 0.09-0.91-0.03c-1.54-0.72-2.23-2.03-1.98-3.69c0.06-0.47 0.47-0.9 0.95-0.97c0.34-0.03 0.72-0.06 0.87-0.09z" />
+			</g>
+		</g>
+		<path id="Layer" class="s0" d="m299.59 181.91c-0.03 1.06-0.22 2.04-1 2.82c-0.25 0.25-0.6 0.41-0.95 0.31c-0.76-0.16-1.45-0.5-1.88-1.19c-0.47-0.72-0.79-1.51-0.95-2.35c-0.09-0.53 0.09-1 0.47-1.38c0.76-0.72 1.73-0.88 2.61-0.44c0.38 0.19 0.72 0.44 1.1 0.69c0.38 0.25 0.53 0.66 0.57 1.09c0.03 0.09 0.03 0.28 0.03 0.44z" />
+		<path id="Layer" class="s0" d="m261.63 181.98c-0.06 0.28-0.12 0.82-0.31 1.28c-0.31 0.87-0.97 1.38-1.91 1.54c-0.69 0.12-1.45-0.19-1.8-0.76c-0.5-0.81-0.84-1.69-0.84-2.66c0-0.81 0.5-1.47 1.35-1.65c1.2-0.28 2.2 0.06 3.08 0.84c0.34 0.34 0.44 0.75 0.44 1.41z" />
+		<g id="Clip-Path" clip-path="url(#cp160)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m339.37 164.27c-0.06 0.78-0.38 1.47-0.85 2.1c-0.09 0.12-0.25 0.25-0.41 0.31c-0.97 0.47-2.42 0.15-2.98-0.72c-0.31-0.5-0.57-1.06-0.79-1.59c-0.19-0.44 0-1.06 0.38-1.41c0.5-0.47 1.07-0.84 1.76-1c0.91-0.22 1.7 0.03 2.36 0.66c0.47 0.44 0.53 1.03 0.53 1.66z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp161)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m334.59 223.36c0.19-0.5 0.37-1.13 0.66-1.66c0.31-0.63 1.48-0.91 2.14-0.56c0.22 0.09 0.41 0.22 0.6 0.37c1.45 1.1 1.35 2.91-0.19 3.94c-0.82 0.53-1.98 0.35-2.55-0.47c-0.19-0.25-0.34-0.53-0.47-0.82c-0.06-0.25-0.09-0.5-0.19-0.81z" />
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp162)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m337.42 183.26c-0.03 0-0.38 0-0.72-0.09c-0.25-0.06-0.5-0.15-0.69-0.31c-0.66-0.56-1.16-1.25-1.54-2.03c-0.38-0.82 0.04-1.78 0.92-2.1c1.16-0.44 2.2-0.15 3.11 0.6c0.25 0.19 0.41 0.53 0.54 0.84c0.22 0.56 0.22 1.16 0.15 1.75c-0.06 1.06-0.5 1.38-1.76 1.35z" />
+			</g>
+		</g>
+	</g>
+</svg>

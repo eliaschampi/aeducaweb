@@ -1,0 +1,101 @@
+{
+    "footerAboutWidget": {
+        "logoSrc": "/images/logo/footer-logo.png",
+        "telephone": "+51 952329727",
+        "email": "clientes@carrioneduca.edu.pe",
+        "fbUrl": "https://www.facebook.com/carrioneduca",
+        "ytbUrl": "https://www.youtube.com/channel/UC1Pzu2sF5ae6HMSq_eCsVPA",
+        "aeducaUrl": "https://www.aula.carrioneduca.edu.pe"
+    },
+    "footerLinkTitleOne": "Nosotros",
+    "navListOne": [
+        {
+            "navTitle": "¿Quienes somos?",
+            "navUrl": "/about"
+        },
+        {
+            "navTitle": "Primaria",
+            "navUrl": "/primaria"
+        },
+        {
+            "navTitle": "Secundaria",
+            "navUrl": "/secundaria"
+        },
+        {
+            "navTitle": "Academia",
+            "navUrl": "/academia"
+        },
+        {
+            "navTitle": "Dpto. de Psicología",
+            "navUrl": "/psicologia"
+        },
+        {
+            "navTitle": "Eventos y talleres",
+            "navUrl": "/eventos"
+        },
+        {
+            "navTitle": "Familia",
+            "navUrl": "/familia"
+        }
+    ],
+    "footerLinkTitleTwo": "Académico",
+    "navListTwo": [
+        {
+            "navTitle": "Postula aquí",
+            "navUrl": "/cupon"
+        },
+        {
+            "navTitle": "Preguntas frecuentes",
+            "navUrl": "/faq"
+        },
+        {
+            "navTitle": "Documentos",
+            "navUrl": "/documentos"
+        },
+        {
+            "navTitle": "Calendario",
+            "navUrl": "/calendarizacion"
+        }
+    ],
+    "footerLinkTitleThree": "Aeduca",
+    "navListThree": [
+        {
+            "navTitle": "Aula virtual",
+            "navUrl": "https://www.aula.carrioneduca.edu.pe",
+            "isUrl": true
+        },
+        {
+            "navTitle": "Comunidad",
+            "navUrl": "/comunidad"
+        },
+        {
+            "navTitle": "Biblioteca",
+            "navUrl": "/biblioteca"
+        },
+        {
+            "navTitle": "Noticias",
+            "navUrl": "/noticias"
+        }
+    ],
+    "footerLinkTitleFour": "Otros",
+    "navListFour": [
+        {
+            "navTitle": "Sistema administrativo",
+            "navUrl": "https://www.admin.carrioneduca.edu.pe",
+            "isUrl": true
+        },
+        {
+            "navTitle": "Desarrollador Elias",
+            "navUrl": "https://www.eliaschampi.com",
+            "isUrl": true
+        },
+        {
+            "navTitle": "Privacidad",
+            "navUrl": "/privacidad"
+        },
+        {
+            "navTitle": "Términos y condiciones",
+            "navUrl": "/terminos"
+        }
+    ]
+}

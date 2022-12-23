@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Nuestro escudo",
+        "text": "Nuestro escudo representa nuestra enseñanza efectiva en la preparación para la vida de nuestros educandos. Esta basado en los colores de nuestro logo y posee nuestro símbolo en su corazón",
+        "iconSrc": "/images/svg/escudo.svg"
+    },
+    {
+        "id": 2,
+        "title": "Nuestro logo",
+        "text": "Nuestro logo representa pasión por el aprendizaje, ya que la educación es el único medio que nos lleva al éxito. Es llamativo, simple, elegante y original. ¡No pares de aprender!",
+        "iconSrc": "/images/svg/logus.svg"
+    },
+    {
+        "id": 3,
+        "title": "Nuestro Símbolo",
+        "text": "Nuestro simbolo es un ave de Nazca. Representa el sueño de volar (triunfar en la vida) de toda nuestra comunidad.",
+        "iconSrc": "/images/svg/simbol.svg"
+    }
+]

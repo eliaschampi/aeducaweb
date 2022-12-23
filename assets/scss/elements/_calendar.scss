@@ -1,0 +1,102 @@
+.calendar-wrapper {
+    overflow     : auto;
+    width        : 100%;
+    border-radius: 1rem;
+    box-shadow   : $shadow;
+
+    .calendar {
+        position      : relative;
+        width         : 100%;
+        min-width     : 600px;
+        flex-grow     : 1;
+        display       : flex;
+        flex-direction: column;
+        background    : $body-bg;
+
+        // List styling
+        ol {
+            list-style    : none;
+            margin        : 0;
+            padding       : 0;
+            display       : flex;
+            flex-direction: row;
+            flex-wrap     : wrap;
+
+            li {
+                width     : calc(100% / 7);
+                padding   : 1rem;
+                background: linear-gradient(-145deg, transparent, hsla(0, 0%, 0%, 0.030));
+            }
+        }
+
+        .days {
+            flex-grow: 1;
+        }
+
+        .day-names {
+            background    : linear-gradient(70deg, $primary, $secondary);
+            color         : white;
+            flex-shrink   : 0;
+            flex-grow     : 0;
+            text-transform: uppercase;
+            white-space   : nowrap;
+            overflow      : hidden;
+            text-overflow : ellipsis;
+            font-weight   : bold;
+            line-height   : 1;
+        }
+
+        .date {
+            margin-bottom: 0.25em;
+            font-size    : 0.875em;
+            font-weight  : bold;
+        }
+
+        .event-date .date {
+            font-weight: bold;
+            color      : $primary-three;
+        }
+
+        .event {
+            box-shadow   : 0.25em 0.25em 1em 0 hsla(0, 0%, 0%, 0.05) inset;
+            font-size    : 0.75rem;
+            padding      : 0 0.75em;
+            line-height  : 2em;
+            white-space  : nowrap;
+            overflow     : hidden;
+            border-radius: 1em;
+            display      : flex;
+            align-items  : center;
+
+            &::before {
+                content      : '';
+                width        : 0.5em;
+                height       : 0.5em;
+                margin-right : 0.5em;
+                background   : $primary;
+                border-radius: 100%;
+                flex-shrink  : 0;
+            }
+
+            &.span-2 {
+                width: calc(200% + 2rem);
+            }
+
+            &.begin {
+                border-radius: 1em 0 0 1em;
+            }
+
+            &.end {
+                border-radius: 0 1em 1em 0;
+            }
+
+            &.all-day {
+                background: rgba($secondary, 0.2);
+            }
+
+            &.clear {
+                visibility: hidden;
+            }
+        }
+    }
+}

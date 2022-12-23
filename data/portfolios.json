@@ -1,0 +1,65 @@
+[
+    {
+        "type": "image",
+        "thumb": "/images/portfolio/portfolio-1.jpg",
+        "src": "/images/portfolio/portfolio-1.jpg",
+        "caption": "Practicando fútbol",
+        "category": "arte"
+    },
+    {
+        "type": "image",
+        "thumb": "/images/portfolio/portfolio-2.jpg",
+        "src": "/images/portfolio/portfolio-2.jpg",
+        "caption": "Paseo - 1A 2018",
+        "category": "paseos"
+    },
+    {
+        "type": "image",
+        "thumb": "/images/portfolio/portfolio-3.jpg",
+        "src": "/images/portfolio/portfolio-3.jpg",
+        "caption": "Concurso Danza - Día del Docente",
+        "category": "arte"
+    },
+    {
+        "type": "image",
+        "thumb": "/images/portfolio/portfolio-4.jpg",
+        "src": "/images/portfolio/portfolio-4.jpg",
+        "caption": "Estudiantes Carrión - Primaria",
+        "category": "casa"
+    },
+    {
+        "type": "image",
+        "thumb": "/images/portfolio/portfolio-5.png",
+        "src": "/images/portfolio/portfolio-5.png",
+        "caption": "Concurso de canto y música 2019",
+        "category": "arte"
+    },
+    {
+        "type": "image",
+        "thumb": "/images/portfolio/portfolio-6.jpg",
+        "src": "/images/portfolio/portfolio-6.jpg",
+        "caption": "Concurso de ajedres",
+        "category": "concursos"
+    },
+    {
+        "type": "image",
+        "thumb": "/images/portfolio/portfolio-7.jpg",
+        "src": "/images/portfolio/portfolio-7.jpg",
+        "caption": "Visita a zoológico  - 1A Secundaria 2018",
+        "category": "paseos"
+    },
+    {
+        "type": "image",
+        "thumb": "/images/portfolio/portfolio-8.jpg",
+        "src": "/images/portfolio/portfolio-8.jpg",
+        "caption": "Premiación concurso de talento",
+        "category": "todosleemos"
+    },
+    {
+        "type": "image",
+        "thumb": "/images/portfolio/portfolio-9.jpg",
+        "src": "/images/portfolio/portfolio-9.jpg",
+        "caption": "Ingresantes a la Universidad",
+        "category": "casa"
+    }
+]
